@@ -1195,3 +1195,45 @@
 [2023-10-28T23:31:30.354+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:30.354+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:31:30.372+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:30.372+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:28:00+00:00, run_after=2023-10-28T18:30:00+00:00
 [2023-10-28T23:31:30.390+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.062 seconds
+[2023-10-28T23:32:21.594+0500] {processor.py:157} INFO - Started process (PID=38423) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:32:21.595+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-28T23:32:21.596+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:21.596+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:32:21.603+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:32:21.615+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:21.615+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:32:21.632+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:21.632+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:30:00+00:00, run_after=2023-10-28T18:32:00+00:00
+[2023-10-28T23:32:21.648+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.057 seconds
+[2023-10-28T23:33:07.939+0500] {processor.py:157} INFO - Started process (PID=38507) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:33:07.940+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-28T23:33:07.941+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:07.941+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:33:07.949+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:33:07.962+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:07.962+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:33:07.981+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:07.981+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:30:00+00:00, run_after=2023-10-28T18:32:00+00:00
+[2023-10-28T23:33:07.997+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2023-10-28T23:33:54.169+0500] {processor.py:157} INFO - Started process (PID=38558) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:33:54.169+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-28T23:33:54.170+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:54.170+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:33:54.177+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:33:54.190+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:54.190+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:33:54.207+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:54.207+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:30:00+00:00, run_after=2023-10-28T18:32:00+00:00
+[2023-10-28T23:33:54.224+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.058 seconds
+[2023-10-28T23:34:38.900+0500] {processor.py:157} INFO - Started process (PID=38671) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:34:38.901+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-28T23:34:38.901+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:38.901+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:34:38.909+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:34:38.922+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:38.922+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:34:38.939+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:38.939+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:32:00+00:00, run_after=2023-10-28T18:34:00+00:00
+[2023-10-28T23:34:38.957+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.060 seconds
+[2023-10-28T23:35:30.897+0500] {processor.py:157} INFO - Started process (PID=38827) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:35:30.899+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-28T23:35:30.900+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:30.899+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:35:30.907+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:35:30.920+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:30.919+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:35:30.936+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:30.936+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:32:00+00:00, run_after=2023-10-28T18:34:00+00:00
+[2023-10-28T23:35:30.954+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2023-10-28T23:36:21.565+0500] {processor.py:157} INFO - Started process (PID=39023) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:36:21.567+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-10-28T23:36:21.568+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:21.568+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:36:21.578+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-10-28T23:36:21.595+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:21.595+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:36:21.619+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:21.619+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-10-28T18:34:00+00:00, run_after=2023-10-28T18:36:00+00:00
+[2023-10-28T23:36:21.643+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.081 seconds

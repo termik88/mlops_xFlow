@@ -1195,3 +1195,52 @@
 [2023-10-28T23:31:15.529+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:15.528+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:31:15.543+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:15.543+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:31:15.543283+00:00, run_after=2023-10-28T18:31:15.543283+00:00
 [2023-10-28T23:31:15.570+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2023-10-28T23:32:06.759+0500] {processor.py:157} INFO - Started process (PID=38279) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:32:06.760+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:32:06.760+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:06.760+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:32:06.767+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:32:06.779+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:06.779+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:32:06.794+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:06.794+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:32:06.794157+00:00, run_after=2023-10-28T18:32:06.794157+00:00
+[2023-10-28T23:32:06.811+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.055 seconds
+[2023-10-28T23:32:54.235+0500] {processor.py:157} INFO - Started process (PID=38490) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:32:54.236+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:32:54.237+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:54.237+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:32:54.243+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:32:54.256+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:54.256+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:32:54.270+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:54.270+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:32:54.270494+00:00, run_after=2023-10-28T18:32:54.270494+00:00
+[2023-10-28T23:32:54.287+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2023-10-28T23:33:39.354+0500] {processor.py:157} INFO - Started process (PID=38542) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:33:39.355+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:33:39.356+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:39.355+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:33:39.362+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:33:39.376+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:39.376+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:33:39.392+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:39.392+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:33:39.391863+00:00, run_after=2023-10-28T18:33:39.391863+00:00
+[2023-10-28T23:33:39.409+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.058 seconds
+[2023-10-28T23:34:24.048+0500] {processor.py:157} INFO - Started process (PID=38656) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:34:24.049+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:34:24.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:24.049+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:34:24.057+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:34:24.071+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:24.071+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:34:24.087+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:24.087+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:34:24.087594+00:00, run_after=2023-10-28T18:34:24.087594+00:00
+[2023-10-28T23:34:24.107+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.062 seconds
+[2023-10-28T23:35:14.478+0500] {processor.py:157} INFO - Started process (PID=38809) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:35:14.479+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:35:14.480+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:14.480+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:35:14.487+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:35:14.502+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:14.501+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:35:14.521+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:14.520+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:35:14.520635+00:00, run_after=2023-10-28T18:35:14.520635+00:00
+[2023-10-28T23:35:14.541+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.065 seconds
+[2023-10-28T23:36:06.271+0500] {processor.py:157} INFO - Started process (PID=38973) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:36:06.273+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:36:06.273+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:06.273+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:36:06.280+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:36:06.293+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:06.293+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:36:06.309+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:06.309+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:36:06.309279+00:00, run_after=2023-10-28T18:36:06.309279+00:00
+[2023-10-28T23:36:06.326+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.058 seconds
+[2023-10-28T23:36:57.655+0500] {processor.py:157} INFO - Started process (PID=39089) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:36:57.656+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-10-28T23:36:57.659+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:57.659+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:36:57.673+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-10-28T23:36:57.689+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:57.689+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:36:57.726+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:57.725+0500] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2023-10-27T18:36:57.725420+00:00, run_after=2023-10-28T18:36:57.725420+00:00
+[2023-10-28T23:36:57.770+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.119 seconds

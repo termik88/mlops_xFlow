@@ -1202,3 +1202,45 @@
 [2023-10-28T23:31:29.220+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:29.219+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:31:29.232+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:29.232+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
 [2023-10-28T23:31:29.251+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.055 seconds
+[2023-10-28T23:32:20.465+0500] {processor.py:157} INFO - Started process (PID=38411) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:32:20.467+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-28T23:32:20.468+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:20.467+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:32:20.473+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:32:20.486+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:20.486+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:32:20.494+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:32:20.494+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-28T23:32:20.511+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.049 seconds
+[2023-10-28T23:33:07.536+0500] {processor.py:157} INFO - Started process (PID=38506) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:33:07.537+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-28T23:33:07.538+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:07.538+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:33:07.543+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:33:07.557+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:07.557+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:33:07.566+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:07.566+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-28T23:33:07.582+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.049 seconds
+[2023-10-28T23:33:53.034+0500] {processor.py:157} INFO - Started process (PID=38557) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:33:53.035+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-28T23:33:53.036+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:53.036+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:33:53.041+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:33:53.054+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:53.054+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:33:53.064+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:33:53.063+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-28T23:33:53.093+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.062 seconds
+[2023-10-28T23:34:38.316+0500] {processor.py:157} INFO - Started process (PID=38670) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:34:38.318+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-28T23:34:38.318+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:38.318+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:34:38.323+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:34:38.337+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:38.337+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:34:38.346+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:34:38.346+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-28T23:34:38.362+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.049 seconds
+[2023-10-28T23:35:29.757+0500] {processor.py:157} INFO - Started process (PID=38826) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:35:29.758+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-28T23:35:29.759+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:29.759+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:35:29.764+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:35:29.777+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:29.777+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:35:29.786+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:35:29.786+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-28T23:35:29.803+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.049 seconds
+[2023-10-28T23:36:20.425+0500] {processor.py:157} INFO - Started process (PID=39022) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:36:20.426+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2023-10-28T23:36:20.427+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:20.427+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:36:20.435+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2023-10-28T23:36:20.454+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:20.454+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:36:20.464+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:36:20.464+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2023-10-28T23:36:20.480+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.058 seconds
