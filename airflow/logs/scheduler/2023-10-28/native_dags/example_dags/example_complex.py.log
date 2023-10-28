@@ -936,3 +936,45 @@
 [2023-10-28T22:58:47.218+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:47.218+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T22:58:47.227+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:47.227+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
 [2023-10-28T22:58:47.244+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2023-10-28T22:59:39.908+0500] {processor.py:157} INFO - Started process (PID=30692) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T22:59:39.909+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-10-28T22:59:39.910+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:39.909+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T22:59:39.919+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T22:59:39.939+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:39.939+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:59:39.950+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:39.949+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-10-28T22:59:39.969+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2023-10-28T23:00:29.259+0500] {processor.py:157} INFO - Started process (PID=30902) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:00:29.261+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-10-28T23:00:29.262+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:29.262+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:00:29.276+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:00:29.319+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:29.319+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:00:29.339+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:29.339+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-10-28T23:00:29.363+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.107 seconds
+[2023-10-28T23:01:19.196+0500] {processor.py:157} INFO - Started process (PID=31022) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:01:19.197+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-10-28T23:01:19.198+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:19.198+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:01:19.206+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:01:19.226+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:19.225+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:01:19.234+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:19.234+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-10-28T23:01:19.251+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-10-28T23:02:11.818+0500] {processor.py:157} INFO - Started process (PID=31172) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:02:11.819+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-10-28T23:02:11.820+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:11.820+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:02:11.828+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:02:11.848+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:11.848+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:02:11.857+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:11.857+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-10-28T23:02:11.874+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2023-10-28T23:03:03.005+0500] {processor.py:157} INFO - Started process (PID=31286) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:03:03.007+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-10-28T23:03:03.008+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:03.007+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:03:03.016+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:03:03.035+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:03.035+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:03:03.044+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:03.044+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-10-28T23:03:03.061+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2023-10-28T23:03:52.646+0500] {processor.py:157} INFO - Started process (PID=31431) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:03:52.647+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-10-28T23:03:52.648+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:52.648+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:03:52.656+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-10-28T23:03:52.678+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:52.678+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:03:52.687+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:52.687+0500] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-10-28T23:03:52.705+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds

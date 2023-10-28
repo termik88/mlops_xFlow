@@ -1406,3 +1406,75 @@
 [2023-10-28T22:58:39.804+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:39.803+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
 [2023-10-28T22:58:39.806+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:39.806+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
 [2023-10-28T22:58:39.820+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.051 seconds
+[2023-10-28T22:59:15.499+0500] {processor.py:157} INFO - Started process (PID=30616) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T22:59:15.500+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T22:59:15.501+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:15.501+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T22:59:15.508+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T22:59:15.523+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:15.523+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T22:59:15.532+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:15.532+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T22:59:15.535+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:15.535+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T22:59:15.550+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.054 seconds
+[2023-10-28T22:59:48.908+0500] {processor.py:157} INFO - Started process (PID=30702) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T22:59:48.909+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T22:59:48.910+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:48.910+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T22:59:48.918+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T22:59:48.934+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:48.934+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T22:59:48.947+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:48.947+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T22:59:48.951+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:48.951+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T22:59:48.979+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.073 seconds
+[2023-10-28T23:00:21.846+0500] {processor.py:157} INFO - Started process (PID=30894) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:00:21.849+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:00:21.850+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:21.849+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:00:21.862+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:00:21.879+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:21.879+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:00:21.889+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:21.889+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:00:21.891+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:21.891+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:00:21.913+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2023-10-28T23:00:56.883+0500] {processor.py:157} INFO - Started process (PID=30946) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:00:56.884+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:00:56.885+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:56.885+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:00:56.893+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:00:56.910+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:56.910+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:00:56.929+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:56.929+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:00:56.931+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:56.931+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:00:56.948+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.069 seconds
+[2023-10-28T23:01:29.515+0500] {processor.py:157} INFO - Started process (PID=31058) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:01:29.515+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:01:29.516+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:29.516+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:01:29.523+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:01:29.537+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:29.537+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:01:29.546+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:29.546+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:01:29.548+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:29.548+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:01:29.563+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.051 seconds
+[2023-10-28T23:02:04.383+0500] {processor.py:157} INFO - Started process (PID=31163) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:02:04.384+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:02:04.385+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:04.385+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:02:04.392+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:02:04.407+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:04.407+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:02:04.417+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:04.417+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:02:04.419+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:04.419+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:02:04.434+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.053 seconds
+[2023-10-28T23:02:39.279+0500] {processor.py:157} INFO - Started process (PID=31199) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:02:39.280+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:02:39.281+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:39.280+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:02:39.287+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:02:39.302+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:39.302+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:02:39.311+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:39.311+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:02:39.314+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:39.313+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:02:39.328+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.052 seconds
+[2023-10-28T23:03:12.846+0500] {processor.py:157} INFO - Started process (PID=31338) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:03:12.847+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:03:12.848+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:12.848+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:03:12.855+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:03:12.870+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:12.870+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:03:12.879+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:12.879+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:03:12.882+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:12.881+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:03:12.898+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.054 seconds
+[2023-10-28T23:03:45.669+0500] {processor.py:157} INFO - Started process (PID=31385) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:03:45.670+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-10-28T23:03:45.670+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:45.670+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:03:45.677+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-10-28T23:03:45.691+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:45.691+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:03:45.700+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:45.700+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-10-28T23:03:45.702+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:45.702+0500] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-10-28T23:03:45.717+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.051 seconds

@@ -915,3 +915,45 @@
 [2023-10-28T22:58:29.496+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:29.496+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T22:58:29.515+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:29.515+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
 [2023-10-28T22:58:29.531+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2023-10-28T22:59:23.358+0500] {processor.py:157} INFO - Started process (PID=30675) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T22:59:23.359+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-10-28T22:59:23.360+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:23.360+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T22:59:23.369+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T22:59:23.385+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:23.385+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:59:23.401+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:23.401+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:59:23.418+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2023-10-28T23:00:12.239+0500] {processor.py:157} INFO - Started process (PID=30872) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:00:12.244+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-10-28T23:00:12.245+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:12.244+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:00:12.253+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:00:12.276+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:12.276+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:00:12.293+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:12.293+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:00:12.312+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.076 seconds
+[2023-10-28T23:01:02.622+0500] {processor.py:157} INFO - Started process (PID=30952) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:01:02.623+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-10-28T23:01:02.624+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:02.624+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:01:02.631+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:01:02.646+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:02.646+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:01:02.663+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:02.663+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:01:02.679+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2023-10-28T23:01:55.199+0500] {processor.py:157} INFO - Started process (PID=31089) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:01:55.201+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-10-28T23:01:55.202+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:55.201+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:01:55.212+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:01:55.234+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:55.234+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:01:55.256+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:55.256+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:01:55.275+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.079 seconds
+[2023-10-28T23:02:47.836+0500] {processor.py:157} INFO - Started process (PID=31209) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:02:47.837+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-10-28T23:02:47.837+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:47.837+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:02:47.845+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:02:47.859+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:47.859+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:02:47.875+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:47.874+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:02:47.892+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2023-10-28T23:03:36.448+0500] {processor.py:157} INFO - Started process (PID=31363) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:03:36.449+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-10-28T23:03:36.450+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:36.450+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:03:36.457+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-10-28T23:03:36.472+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:36.472+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:03:36.488+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:36.488+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:03:36.506+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds

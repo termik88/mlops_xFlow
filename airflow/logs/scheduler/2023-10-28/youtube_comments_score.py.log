@@ -1321,3 +1321,59 @@
 [2023-10-28T22:58:56.338+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:56.338+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T22:58:56.347+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:56.347+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
 [2023-10-28T22:58:56.363+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.046 seconds
+[2023-10-28T22:59:32.028+0500] {processor.py:157} INFO - Started process (PID=30684) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T22:59:32.029+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T22:59:32.030+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:32.029+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T22:59:32.036+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T22:59:32.048+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:32.048+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:59:32.060+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:32.060+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T22:59:32.082+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.056 seconds
+[2023-10-28T23:00:04.956+0500] {processor.py:157} INFO - Started process (PID=30850) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:00:04.957+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:00:04.958+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:04.958+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:00:04.964+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:00:04.988+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:04.987+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:00:05.013+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:05.012+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:00:05.061+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.108 seconds
+[2023-10-28T23:00:39.265+0500] {processor.py:157} INFO - Started process (PID=30923) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:00:39.266+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:00:39.267+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:39.266+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:00:39.273+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:00:39.285+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:39.285+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:00:39.294+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:39.294+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:00:39.311+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.049 seconds
+[2023-10-28T23:01:12.166+0500] {processor.py:157} INFO - Started process (PID=30991) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:01:12.167+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:01:12.168+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:12.168+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:01:12.174+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:01:12.186+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:12.186+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:01:12.195+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:12.194+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:01:12.212+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.048 seconds
+[2023-10-28T23:01:47.204+0500] {processor.py:157} INFO - Started process (PID=31080) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:01:47.205+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:01:47.205+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:47.205+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:01:47.211+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:01:47.224+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:47.224+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:01:47.233+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:47.233+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:01:47.249+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.048 seconds
+[2023-10-28T23:02:20.833+0500] {processor.py:157} INFO - Started process (PID=31181) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:02:20.834+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:02:20.835+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:20.835+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:02:20.841+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:02:20.854+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:20.854+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:02:20.863+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:20.863+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:02:20.880+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.050 seconds
+[2023-10-28T23:02:55.833+0500] {processor.py:157} INFO - Started process (PID=31218) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:02:55.834+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:02:55.834+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:55.834+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:02:55.840+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:02:55.855+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:55.854+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:02:55.864+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:55.864+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:02:55.881+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.051 seconds
+[2023-10-28T23:03:27.904+0500] {processor.py:157} INFO - Started process (PID=31355) to work on /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:03:27.905+0500] {processor.py:829} INFO - Processing file /home/termik/project/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-10-28T23:03:27.905+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:27.905+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:03:27.911+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/termik/project/airflow/dags/youtube_comments_score.py
+[2023-10-28T23:03:27.923+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:27.923+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:03:27.932+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:27.932+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-10-28T23:03:27.949+0500] {processor.py:179} INFO - Processing /home/termik/project/airflow/dags/youtube_comments_score.py took 0.047 seconds

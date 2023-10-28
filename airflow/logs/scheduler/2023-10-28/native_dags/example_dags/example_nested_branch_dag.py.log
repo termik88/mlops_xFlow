@@ -908,3 +908,38 @@
 [2023-10-28T22:58:51.984+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:51.984+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T22:58:51.999+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:51.999+0500] {dag.py:3722} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
 [2023-10-28T22:58:52.016+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-10-28T22:59:44.783+0500] {processor.py:157} INFO - Started process (PID=30697) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T22:59:44.783+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-10-28T22:59:44.784+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:44.784+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T22:59:44.793+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T22:59:44.808+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:44.808+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:59:44.824+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:59:44.824+0500] {dag.py:3722} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:59:44.843+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.063 seconds
+[2023-10-28T23:00:35.486+0500] {processor.py:157} INFO - Started process (PID=30919) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:00:35.488+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-10-28T23:00:35.489+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:35.488+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:00:35.498+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:00:35.541+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:35.540+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:00:35.565+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:00:35.565+0500] {dag.py:3722} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:00:35.587+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.105 seconds
+[2023-10-28T23:01:24.363+0500] {processor.py:157} INFO - Started process (PID=31032) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:01:24.365+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-10-28T23:01:24.365+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:24.365+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:01:24.373+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:01:24.386+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:24.386+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:01:24.401+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:01:24.400+0500] {dag.py:3722} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:01:24.416+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.056 seconds
+[2023-10-28T23:02:17.040+0500] {processor.py:157} INFO - Started process (PID=31177) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:02:17.041+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-10-28T23:02:17.042+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:17.042+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:02:17.050+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:02:17.064+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:17.064+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:02:17.080+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:02:17.080+0500] {dag.py:3722} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:02:17.098+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.060 seconds
+[2023-10-28T23:03:08.414+0500] {processor.py:157} INFO - Started process (PID=31333) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:03:08.415+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-10-28T23:03:08.415+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:08.415+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:03:08.424+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-10-28T23:03:08.438+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:08.438+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:03:08.453+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:08.453+0500] {dag.py:3722} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:03:08.470+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.059 seconds
