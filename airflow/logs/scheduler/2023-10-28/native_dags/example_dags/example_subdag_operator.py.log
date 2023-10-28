@@ -1918,3 +1918,135 @@
 [2023-10-28T23:22:47.379+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:47.379+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
 [2023-10-28T23:22:47.380+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:47.379+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
 [2023-10-28T23:22:47.390+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.070 seconds
+[2023-10-28T23:23:36.556+0500] {processor.py:157} INFO - Started process (PID=36069) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:23:36.557+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:23:36.558+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.557+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:23:36.574+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:23:36.585+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.585+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:23:36.600+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.600+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:23:36.603+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.603+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:23:36.604+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.603+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:23:36.608+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.608+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:23:36.615+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.610+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:23:36.616+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:36.615+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:23:36.628+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.075 seconds
+[2023-10-28T23:24:21.840+0500] {processor.py:157} INFO - Started process (PID=36293) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:24:21.840+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:24:21.841+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.841+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:24:21.857+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:24:21.869+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.868+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:24:21.882+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.882+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:24:21.885+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.884+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:24:21.885+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.885+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:24:21.889+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.889+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:24:21.892+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.892+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:24:21.892+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:21.892+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:24:21.905+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.075 seconds
+[2023-10-28T23:25:10.695+0500] {processor.py:157} INFO - Started process (PID=36701) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:25:10.696+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:25:10.696+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.696+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:25:10.717+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:25:10.730+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.729+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:25:10.745+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.745+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:25:10.748+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.748+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:25:10.749+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.749+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:25:10.753+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.753+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:25:10.756+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.756+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:25:10.757+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:10.756+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:25:10.781+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.090 seconds
+[2023-10-28T23:26:02.497+0500] {processor.py:157} INFO - Started process (PID=36977) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:26:02.499+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:26:02.500+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.500+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:26:02.524+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:26:02.542+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.542+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:26:02.559+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.559+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:26:02.562+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.562+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:26:02.562+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.562+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:26:02.567+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.567+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:26:02.570+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.570+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:26:02.570+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:02.570+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:26:02.583+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.089 seconds
+[2023-10-28T23:26:52.811+0500] {processor.py:157} INFO - Started process (PID=37300) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:26:52.812+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:26:52.813+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.813+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:26:52.831+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:26:52.843+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.843+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:26:52.857+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.857+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:26:52.859+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.859+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:26:52.860+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.860+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:26:52.864+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.864+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:26:52.866+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.866+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:26:52.867+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:52.867+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:26:52.878+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.069 seconds
+[2023-10-28T23:27:38.997+0500] {processor.py:157} INFO - Started process (PID=37451) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:27:38.998+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:27:38.999+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:38.999+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:27:39.018+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:27:39.031+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.031+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:27:39.047+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.047+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:27:39.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.049+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:27:39.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.050+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:27:39.055+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.055+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:27:39.058+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.058+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:27:39.058+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:39.058+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:27:39.071+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.076 seconds
+[2023-10-28T23:28:30.250+0500] {processor.py:157} INFO - Started process (PID=37571) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:28:30.250+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:28:30.251+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.251+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:28:30.269+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:28:30.282+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.281+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:28:30.297+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.297+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:28:30.299+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.299+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:28:30.300+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.300+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:28:30.305+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.305+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:28:30.307+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.307+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:28:30.308+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:30.308+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:28:30.319+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.072 seconds
+[2023-10-28T23:29:16.335+0500] {processor.py:157} INFO - Started process (PID=37727) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:29:16.336+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:29:16.337+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.336+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:29:16.353+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:29:16.364+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.364+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:29:16.379+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.379+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:29:16.382+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.382+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:29:16.382+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.382+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:29:16.387+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.387+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:29:16.389+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.389+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:29:16.390+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:16.390+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:29:16.402+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.070 seconds
+[2023-10-28T23:30:07.227+0500] {processor.py:157} INFO - Started process (PID=37926) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:30:07.228+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:30:07.229+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.229+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:30:07.249+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:30:07.263+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.262+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:30:07.278+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.277+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:30:07.280+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.280+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:30:07.280+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.280+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:30:07.285+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.285+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:30:07.287+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.287+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:30:07.288+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.288+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:30:07.300+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.075 seconds
+[2023-10-28T23:30:53.329+0500] {processor.py:157} INFO - Started process (PID=38012) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:30:53.330+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:30:53.330+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.330+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:30:53.347+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:30:53.359+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.359+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:30:53.373+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.373+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:30:53.386+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.385+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:30:53.386+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.386+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:30:53.391+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.391+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:30:53.394+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.393+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:30:53.394+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:53.394+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:30:53.405+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.079 seconds
+[2023-10-28T23:31:41.086+0500] {processor.py:157} INFO - Started process (PID=38166) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:31:41.088+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-10-28T23:31:41.089+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.088+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:31:41.108+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-10-28T23:31:41.125+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.125+0500] {dag.py:2941} INFO - Sync 3 DAGs
+[2023-10-28T23:31:41.142+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.142+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-10-28T23:31:41.146+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.146+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:31:41.147+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.147+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:31:41.153+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.153+0500] {dag.py:2941} INFO - Sync 2 DAGs
+[2023-10-28T23:31:41.156+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.156+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-10-28T23:31:41.156+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:41.156+0500] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-10-28T23:31:41.171+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.087 seconds

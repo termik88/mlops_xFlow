@@ -1008,3 +1008,68 @@
 [2023-10-28T23:22:45.001+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:45.001+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
 [2023-10-28T23:22:45.003+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
 [2023-10-28T23:22:45.019+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-10-28T23:23:18.227+0500] {processor.py:157} INFO - Started process (PID=35956) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:23:18.228+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:23:18.229+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:18.229+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:23:18.230+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:23:18.239+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-10-28T23:23:51.560+0500] {processor.py:157} INFO - Started process (PID=36133) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:23:51.560+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:23:51.561+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:51.561+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:23:51.563+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:23:51.571+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2023-10-28T23:24:37.024+0500] {processor.py:157} INFO - Started process (PID=36371) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:24:37.025+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:24:37.026+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:37.025+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:24:37.028+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:24:37.039+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-10-28T23:25:25.182+0500] {processor.py:157} INFO - Started process (PID=36779) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:25:25.183+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:25:25.184+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:25.183+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:25:25.186+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:25:25.194+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2023-10-28T23:26:00.814+0500] {processor.py:157} INFO - Started process (PID=36963) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:26:00.815+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:26:00.815+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:00.815+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:26:00.818+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:26:00.827+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-10-28T23:26:51.097+0500] {processor.py:157} INFO - Started process (PID=37247) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:26:51.098+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:26:51.099+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:51.099+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:26:51.101+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:26:51.110+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-10-28T23:27:23.573+0500] {processor.py:157} INFO - Started process (PID=37435) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:27:23.574+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:27:23.575+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:23.574+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:27:23.576+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:27:23.585+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-10-28T23:28:11.027+0500] {processor.py:157} INFO - Started process (PID=37550) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:28:11.028+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:28:11.029+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:11.029+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:28:11.031+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:28:11.040+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-10-28T23:28:45.679+0500] {processor.py:157} INFO - Started process (PID=37629) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:28:45.680+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:28:45.681+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:45.681+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:28:45.683+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:28:45.692+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-10-28T23:29:32.242+0500] {processor.py:157} INFO - Started process (PID=37750) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:29:32.243+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:29:32.243+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:32.243+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:29:32.245+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:29:32.254+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-10-28T23:30:07.000+0500] {processor.py:157} INFO - Started process (PID=37925) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:30:07.001+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:30:07.002+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:07.002+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:30:07.004+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:30:07.019+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-10-28T23:30:52.194+0500] {processor.py:157} INFO - Started process (PID=38008) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:30:52.195+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:30:52.196+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:52.196+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:30:52.198+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:30:52.207+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-10-28T23:31:40.250+0500] {processor.py:157} INFO - Started process (PID=38165) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:31:40.251+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-10-28T23:31:40.251+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:40.251+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:31:40.253+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-10-28T23:31:40.262+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds

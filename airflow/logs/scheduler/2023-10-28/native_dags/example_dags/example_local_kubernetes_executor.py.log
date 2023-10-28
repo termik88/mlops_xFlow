@@ -1769,3 +1769,113 @@ ModuleNotFoundError: No module named 'kubernetes'
 [2023-10-28T23:23:11.945+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:11.945+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
 [2023-10-28T23:23:11.945+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
 [2023-10-28T23:23:11.953+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2023-10-28T23:24:02.092+0500] {processor.py:157} INFO - Started process (PID=36186) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:24:02.092+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:24:02.093+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:02.093+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:24:02.096+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:02.095+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:24:02.096+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:02.096+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:24:02.096+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:24:02.107+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.018 seconds
+[2023-10-28T23:24:48.207+0500] {processor.py:157} INFO - Started process (PID=36446) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:24:48.208+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:24:48.209+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:48.209+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:24:48.212+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:48.211+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:24:48.212+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:24:48.212+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:24:48.212+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:24:48.220+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2023-10-28T23:25:36.472+0500] {processor.py:157} INFO - Started process (PID=36832) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:25:36.473+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:25:36.474+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:36.474+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:25:36.477+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:36.477+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:25:36.477+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:25:36.477+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:25:36.478+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:25:36.487+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.017 seconds
+[2023-10-28T23:26:27.044+0500] {processor.py:157} INFO - Started process (PID=37102) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:26:27.045+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:26:27.046+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:27.046+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:26:27.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:27.049+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:26:27.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:26:27.050+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:26:27.050+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:26:27.061+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.020 seconds
+[2023-10-28T23:27:18.433+0500] {processor.py:157} INFO - Started process (PID=37426) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:27:18.434+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:27:18.435+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:18.434+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:27:18.438+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:18.437+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:27:18.438+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:27:18.438+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:27:18.438+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:27:18.446+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2023-10-28T23:28:04.727+0500] {processor.py:157} INFO - Started process (PID=37543) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:28:04.728+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:28:04.729+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:04.729+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:28:04.732+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:04.731+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:28:04.732+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:04.732+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:28:04.733+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:28:04.741+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2023-10-28T23:28:53.905+0500] {processor.py:157} INFO - Started process (PID=37639) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:28:53.906+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:28:53.907+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:53.907+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:28:53.910+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:53.909+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:28:53.910+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:28:53.910+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:28:53.911+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:28:53.919+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.022 seconds
+[2023-10-28T23:29:42.536+0500] {processor.py:157} INFO - Started process (PID=37761) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:29:42.537+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:29:42.538+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:42.537+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:29:42.540+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:42.540+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:29:42.541+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:29:42.541+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:29:42.541+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:29:42.549+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.015 seconds
+[2023-10-28T23:30:30.059+0500] {processor.py:157} INFO - Started process (PID=37950) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:30:30.060+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:30:30.061+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:30.061+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:30:30.064+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:30.063+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:30:30.064+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:30:30.064+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:30:30.064+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:30:30.072+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds
+[2023-10-28T23:31:16.918+0500] {processor.py:157} INFO - Started process (PID=38142) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:31:16.919+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-10-28T23:31:16.920+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:16.920+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:31:16.923+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:16.922+0500] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-10-28T23:31:16.923+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:31:16.923+0500] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-10-28T23:31:16.923+0500] {processor.py:841} WARNING - No viable dags retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-10-28T23:31:16.931+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.016 seconds

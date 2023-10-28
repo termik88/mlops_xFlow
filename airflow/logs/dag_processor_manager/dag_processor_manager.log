@@ -14429,3 +14429,979 @@ File Path                                                                       
 /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:22:24
 /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:22:04
 ================================================================================
+[2023-10-28T23:23:20.229+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:22:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.13s           2023-10-28T18:23:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.11s           2023-10-28T18:23:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:23:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:23:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:23:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:23:02
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:22:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:23:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:22:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:22:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:23:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2023-10-28T18:23:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:23:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.12s           2023-10-28T18:23:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.14s           2023-10-28T18:23:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.11s           2023-10-28T18:23:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:23:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:22:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:22:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:22:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:22:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:23:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:23:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:23:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:22:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:22:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:22:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:22:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:22:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:22:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:22:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:22:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.12s           2023-10-28T18:22:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:22:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:22:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:22:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:22:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:22:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.11s           2023-10-28T18:22:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:23:00
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:23:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:23:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2023-10-28T18:22:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:22:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.11s           2023-10-28T18:23:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:22:54
+================================================================================
+[2023-10-28T23:23:50.516+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2023-10-28T18:23:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.13s           2023-10-28T18:23:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:23:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:23:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.12s           2023-10-28T18:23:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:23:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:23:02
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:23:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:23:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.12s           2023-10-28T18:23:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:23:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:23:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:23:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:23:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.12s           2023-10-28T18:23:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:23:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.11s           2023-10-28T18:23:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:23:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:23:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:23:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.13s           2023-10-28T18:23:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.11s           2023-10-28T18:23:26
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:23:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:23:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:23:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:23:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:23:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:23:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:23:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:23:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.10s           2023-10-28T18:23:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:23:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:23:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2023-10-28T18:23:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:23:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.11s           2023-10-28T18:23:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:23:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:23:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:23:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:23:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:23:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:23:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:23:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2023-10-28T18:23:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:23:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.11s           2023-10-28T18:23:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:23:45
+================================================================================
+[2023-10-28T23:24:20.796+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2023-10-28T18:24:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:24:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:23:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:23:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.11s           2023-10-28T18:24:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:24:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:23:52
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.12s           2023-10-28T18:24:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.11s           2023-10-28T18:23:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.11s           2023-10-28T18:24:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.12s           2023-10-28T18:24:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:23:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:23:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:23:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:23:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:23:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.13s           2023-10-28T18:23:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.13s           2023-10-28T18:23:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:24:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:24:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.15s           2023-10-28T18:24:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.19s           2023-10-28T18:24:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:23:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.13s           2023-10-28T18:23:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:24:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:24:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:24:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.12s           2023-10-28T18:24:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.11s           2023-10-28T18:24:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:24:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.10s           2023-10-28T18:23:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:23:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:23:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2023-10-28T18:23:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:23:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.11s           2023-10-28T18:23:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:23:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:23:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:23:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:23:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:24:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:24:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.12s           2023-10-28T18:24:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:24:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:23:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.11s           2023-10-28T18:24:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:23:45
+================================================================================
+[2023-10-28T23:24:51.091+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2023-10-28T18:24:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:24:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:24:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:24:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.11s           2023-10-28T18:24:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:24:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:24:38
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:24:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:24:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.11s           2023-10-28T18:24:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.12s           2023-10-28T18:24:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:24:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:24:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:24:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:24:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:24:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.15s           2023-10-28T18:24:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:24:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:24:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:24:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.15s           2023-10-28T18:24:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.19s           2023-10-28T18:24:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:24:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:24:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:24:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:24:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:24:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.12s           2023-10-28T18:24:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.11s           2023-10-28T18:24:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:24:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:24:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:24:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:24:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:24:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:24:26
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:24:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.11s           2023-10-28T18:24:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:24:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:24:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:24:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:24:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:24:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.12s           2023-10-28T18:24:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:24:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:24:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.12s           2023-10-28T18:24:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:24:30
+================================================================================
+[2023-10-28T23:25:01.693+0500] {manager.py:755} INFO - Searching for files in /home/termik/project/airflow/dags
+[2023-10-28T23:25:01.703+0500] {manager.py:758} INFO - There are 47 files in /home/termik/project/airflow/dags
+[2023-10-28T23:25:21.404+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:24:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:24:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.11s           2023-10-28T18:25:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:24:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:24:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:24:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:24:38
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:24:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:24:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.12s           2023-10-28T18:25:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:24:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:24:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:25:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:24:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:24:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.11s           2023-10-28T18:25:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.15s           2023-10-28T18:24:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:24:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:24:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:24:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:25:00
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.12s           2023-10-28T18:25:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:24:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:24:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:24:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:25:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:25:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.11s           2023-10-28T18:25:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:25:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.12s           2023-10-28T18:25:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.21s           2023-10-28T18:25:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.11s           2023-10-28T18:25:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.13s           2023-10-28T18:25:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:25:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:25:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.11s           2023-10-28T18:25:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:25:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:25:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:25:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:25:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.21s           2023-10-28T18:24:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:24:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2023-10-28T18:24:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:24:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.11s           2023-10-28T18:25:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.12s           2023-10-28T18:24:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:25:19
+================================================================================
+[2023-10-28T23:25:51.740+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:25:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2023-10-28T18:25:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.11s           2023-10-28T18:25:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:25:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.11s           2023-10-28T18:25:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.52s           2023-10-28T18:25:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:25:26
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:25:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:25:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.12s           2023-10-28T18:25:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.11s           2023-10-28T18:25:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:25:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2023-10-28T18:25:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:25:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.12s           2023-10-28T18:25:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.15s           2023-10-28T18:25:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.12s           2023-10-28T18:25:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:25:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:25:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:25:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.23s           2023-10-28T18:25:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:25:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:25:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:25:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:25:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2023-10-28T18:25:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:25:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.11s           2023-10-28T18:25:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:25:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.12s           2023-10-28T18:25:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.21s           2023-10-28T18:25:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.11s           2023-10-28T18:25:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.13s           2023-10-28T18:25:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:25:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:25:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.11s           2023-10-28T18:25:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:25:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:25:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:25:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:25:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:25:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.11s           2023-10-28T18:25:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:25:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:25:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.11s           2023-10-28T18:25:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:25:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:25:19
+================================================================================
+[2023-10-28T23:26:21.993+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:25:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2023-10-28T18:25:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:26:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.12s           2023-10-28T18:26:00
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.11s           2023-10-28T18:26:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.52s           2023-10-28T18:25:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:26:01
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.14s           2023-10-28T18:25:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.21s           2023-10-28T18:26:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.11s           2023-10-28T18:25:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.11s           2023-10-28T18:25:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.12s           2023-10-28T18:26:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.12s           2023-10-28T18:26:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:26:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.11s           2023-10-28T18:26:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:26:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.20s           2023-10-28T18:26:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:25:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:25:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:25:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.23s           2023-10-28T18:25:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:25:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:25:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:25:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:25:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2023-10-28T18:25:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:25:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:25:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:25:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.11s           2023-10-28T18:25:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.21s           2023-10-28T18:26:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:26:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:26:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:26:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:26:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:26:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.12s           2023-10-28T18:26:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.11s           2023-10-28T18:26:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:26:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:26:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:25:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.11s           2023-10-28T18:25:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:25:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2023-10-28T18:25:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:26:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:25:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.21s           2023-10-28T18:26:10
+================================================================================
+[2023-10-28T23:26:52.285+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:26:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:26:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:26:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:26:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:26:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:26:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:26:52
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:26:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.21s           2023-10-28T18:26:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:26:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.11s           2023-10-28T18:26:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.12s           2023-10-28T18:26:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:26:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:26:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.11s           2023-10-28T18:26:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:26:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.20s           2023-10-28T18:26:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:26:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:26:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:26:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:26:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.21s           2023-10-28T18:26:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:26:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:26:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.11s           2023-10-28T18:26:26
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2023-10-28T18:26:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:26:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:26:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:26:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:26:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.21s           2023-10-28T18:26:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:26:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:26:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:26:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:26:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:26:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.12s           2023-10-28T18:26:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.11s           2023-10-28T18:26:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:26:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:26:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:26:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.12s           2023-10-28T18:26:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2023-10-28T18:26:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:26:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:26:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:26:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.21s           2023-10-28T18:26:10
+================================================================================
+[2023-10-28T23:27:22.408+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:26:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:27:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:26:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:26:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:26:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:27:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:26:52
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:27:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:27:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:26:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.11s           2023-10-28T18:26:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.11s           2023-10-28T18:27:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2023-10-28T18:27:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:27:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:27:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:27:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.11s           2023-10-28T18:27:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:27:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:26:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:26:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:26:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.21s           2023-10-28T18:26:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:27:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:27:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:27:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2023-10-28T18:26:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:26:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:26:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:26:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:26:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:26:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:26:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.13s           2023-10-28T18:26:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:27:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.12s           2023-10-28T18:26:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:26:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:26:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:27:00
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:27:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:27:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:27:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:27:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:27:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:27:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:26:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:27:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.11s           2023-10-28T18:27:01
+================================================================================
+[2023-10-28T23:27:52.790+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2023-10-28T18:27:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:27:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.12s           2023-10-28T18:27:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:27:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:27:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:27:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:27:38
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:27:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:27:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.23s           2023-10-28T18:27:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.11s           2023-10-28T18:27:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.11s           2023-10-28T18:27:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2023-10-28T18:27:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:27:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:27:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:27:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.11s           2023-10-28T18:27:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:27:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:27:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:27:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:27:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:27:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:27:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:27:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:27:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:27:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:27:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.12s           2023-10-28T18:27:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.11s           2023-10-28T18:27:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:27:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:27:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:27:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.13s           2023-10-28T18:27:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2023-10-28T18:27:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:27:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:27:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:27:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.12s           2023-10-28T18:27:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:27:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:27:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:27:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:27:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:27:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:27:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:27:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:27:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:27:47
+================================================================================
+[2023-10-28T23:28:23.199+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:28:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2023-10-28T18:28:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:28:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:28:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:28:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:27:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:28:13
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:28:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:27:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.23s           2023-10-28T18:27:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:28:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.11s           2023-10-28T18:27:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2023-10-28T18:28:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:27:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.11s           2023-10-28T18:27:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.11s           2023-10-28T18:28:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:27:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.11s           2023-10-28T18:28:00
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:28:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:28:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.12s           2023-10-28T18:28:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.17s           2023-10-28T18:28:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:28:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:28:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:28:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:28:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:28:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:28:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:28:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:27:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:27:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:27:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.13s           2023-10-28T18:27:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2023-10-28T18:27:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:27:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:27:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:27:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.12s           2023-10-28T18:27:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:27:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:27:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:27:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:28:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2023-10-28T18:27:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:27:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:27:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:28:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:27:47
+================================================================================
+[2023-10-28T23:28:53.360+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:28:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2023-10-28T18:28:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:28:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:28:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:28:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.44s           2023-10-28T18:28:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:28:13
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:28:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.11s           2023-10-28T18:28:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:28:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:28:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:28:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:28:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:28:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:28:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.11s           2023-10-28T18:28:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:28:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:28:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:28:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:28:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.12s           2023-10-28T18:28:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.17s           2023-10-28T18:28:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.12s           2023-10-28T18:28:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:28:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:28:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:28:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:28:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:28:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:28:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:28:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.10s           2023-10-28T18:28:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.11s           2023-10-28T18:28:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.12s           2023-10-28T18:28:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.13s           2023-10-28T18:28:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.11s           2023-10-28T18:28:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:28:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:28:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:28:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:28:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.11s           2023-10-28T18:28:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:28:26
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:28:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:28:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:28:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.11s           2023-10-28T18:28:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:28:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:28:37
+================================================================================
+[2023-10-28T23:29:24.269+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.11s           2023-10-28T18:29:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.13s           2023-10-28T18:28:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:28:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:28:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.16s           2023-10-28T18:28:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:29:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:29:00
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:29:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.11s           2023-10-28T18:29:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:29:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.12s           2023-10-28T18:29:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:28:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:28:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:28:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:28:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.11s           2023-10-28T18:28:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:28:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:28:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.11s           2023-10-28T18:29:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:29:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.11s           2023-10-28T18:29:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.11s           2023-10-28T18:29:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.12s           2023-10-28T18:28:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.10s           2023-10-28T18:28:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:28:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.12s           2023-10-28T18:29:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:29:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:29:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:29:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.11s           2023-10-28T18:29:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.10s           2023-10-28T18:29:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:29:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:29:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.13s           2023-10-28T18:28:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.12s           2023-10-28T18:29:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.12s           2023-10-28T18:29:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.11s           2023-10-28T18:29:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:29:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:28:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.11s           2023-10-28T18:28:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.11s           2023-10-28T18:28:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:28:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:28:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:28:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.11s           2023-10-28T18:29:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.11s           2023-10-28T18:28:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:29:24
+================================================================================
+[2023-10-28T23:29:54.551+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:29:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:29:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:29:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:29:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:29:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:29:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.13s           2023-10-28T18:29:50
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.10s           2023-10-28T18:29:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:29:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:29:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:29:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.12s           2023-10-28T18:29:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.21s           2023-10-28T18:29:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:29:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:29:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:29:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:29:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:29:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:29:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:29:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.11s           2023-10-28T18:29:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.11s           2023-10-28T18:29:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:29:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.12s           2023-10-28T18:29:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:29:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.12s           2023-10-28T18:29:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.11s           2023-10-28T18:29:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:29:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:29:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.11s           2023-10-28T18:29:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.10s           2023-10-28T18:29:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:29:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:29:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:29:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.12s           2023-10-28T18:29:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.12s           2023-10-28T18:29:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.11s           2023-10-28T18:29:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:29:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:29:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.11s           2023-10-28T18:29:26
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:29:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:29:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.10s           2023-10-28T18:29:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:29:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.11s           2023-10-28T18:29:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:29:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:29:24
+================================================================================
+[2023-10-28T23:30:02.494+0500] {manager.py:755} INFO - Searching for files in /home/termik/project/airflow/dags
+[2023-10-28T23:30:02.504+0500] {manager.py:758} INFO - There are 47 files in /home/termik/project/airflow/dags
+[2023-10-28T23:30:24.728+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:29:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:29:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:30:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:30:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:30:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:29:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.13s           2023-10-28T18:29:50
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:30:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:29:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:30:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:29:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:30:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:30:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:30:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.11s           2023-10-28T18:30:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:30:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:29:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:29:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:29:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:29:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:29:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:29:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:29:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.12s           2023-10-28T18:29:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:29:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:29:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:29:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:29:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:30:00
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:30:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:30:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:30:09
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:30:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:30:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:30:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:30:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:30:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:30:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:30:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:30:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:30:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:29:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:30:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.10s           2023-10-28T18:30:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:30:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:29:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:30:14
+================================================================================
+[2023-10-28T23:30:55.012+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:30:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.10s           2023-10-28T18:30:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:30:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:30:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:30:21
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.40s           2023-10-28T18:30:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.15s           2023-10-28T18:30:35
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:30:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:30:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:30:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.11s           2023-10-28T18:30:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.10s           2023-10-28T18:30:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.11s           2023-10-28T18:30:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.10s           2023-10-28T18:30:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.11s           2023-10-28T18:30:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:30:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:30:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.11s           2023-10-28T18:30:26
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:30:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:30:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.11s           2023-10-28T18:30:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:30:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.10s           2023-10-28T18:30:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:30:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.10s           2023-10-28T18:30:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2023-10-28T18:30:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:30:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.11s           2023-10-28T18:30:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:30:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:30:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:30:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:30:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:30:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:30:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:30:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:30:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:30:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:30:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:30:16
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.10s           2023-10-28T18:30:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:30:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:30:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:30:22
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.12s           2023-10-28T18:30:49
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:30:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.10s           2023-10-28T18:30:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:30:14
+================================================================================
+[2023-10-28T23:31:25.213+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:30:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2023-10-28T18:31:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:30:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.11s           2023-10-28T18:30:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:31:06
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:31:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:31:21
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:31:04
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:31:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.10s           2023-10-28T18:30:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:31:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.11s           2023-10-28T18:31:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.12s           2023-10-28T18:31:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.11s           2023-10-28T18:31:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:31:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:31:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:31:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:31:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:31:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.11s           2023-10-28T18:30:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.11s           2023-10-28T18:30:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:30:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.11s           2023-10-28T18:31:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:31:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.12s           2023-10-28T18:31:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.11s           2023-10-28T18:30:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:30:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.11s           2023-10-28T18:30:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:30:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.10s           2023-10-28T18:30:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:30:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:30:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.12s           2023-10-28T18:30:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.10s           2023-10-28T18:31:03
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:30:56
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.10s           2023-10-28T18:30:57
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.11s           2023-10-28T18:30:58
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:30:59
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.11s           2023-10-28T18:31:01
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.12s           2023-10-28T18:31:02
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.12s           2023-10-28T18:31:05
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:31:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:31:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2023-10-28T18:31:20
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.10s           2023-10-28T18:30:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.11s           2023-10-28T18:31:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:31:00
+================================================================================
+[2023-10-28T23:31:55.482+0500] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                                       0           0  0.10s           2023-10-28T18:31:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                                 0           0  0.11s           2023-10-28T18:31:17
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py                                                  0           0  0.10s           2023-10-28T18:31:39
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                                    0           0  0.10s           2023-10-28T18:31:40
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py                                                           0           0  0.10s           2023-10-28T18:31:55
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                                   0           0  0.41s           2023-10-28T18:31:07
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py                                                            0           0  0.10s           2023-10-28T18:31:21
+/home/termik/project/airflow/dags/youtube_comments_score.py                                                                                                      1           0  0.11s           2023-10-28T18:31:36
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py                                                        1           0  0.10s           2023-10-28T18:31:23
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                                               1           0  0.11s           2023-10-28T18:31:35
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                                           1           0  0.10s           2023-10-28T18:31:24
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                                        1           0  0.11s           2023-10-28T18:31:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                                          1           0  0.10s           2023-10-28T18:31:37
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py                                                   1           0  0.11s           2023-10-28T18:31:10
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                                           1           0  0.10s           2023-10-28T18:31:11
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py                                                                      1           0  0.10s           2023-10-28T18:31:53
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py                                                      1           0  0.10s           2023-10-28T18:31:12
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                                      1           0  0.10s           2023-10-28T18:31:13
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                                   1           0  0.10s           2023-10-28T18:31:25
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                                1           0  0.10s           2023-10-28T18:31:27
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py                           1           0  0.10s           2023-10-28T18:31:28
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py                                                          1           0  0.10s           2023-10-28T18:31:29
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                                           1           0  0.11s           2023-10-28T18:31:14
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py                                                            1           0  0.11s           2023-10-28T18:31:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py                                                         1           0  0.12s           2023-10-28T18:31:15
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                                   1           0  0.10s           2023-10-28T18:31:30
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                                             1           0  0.10s           2023-10-28T18:31:31
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py                                                                   1           0  0.10s           2023-10-28T18:31:32
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                                              1           0  0.10s           2023-10-28T18:31:33
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                                      1           0  0.11s           2023-10-28T18:31:34
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                                             1           0  0.20s           2023-10-28T18:31:42
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                                 1           0  0.10s           2023-10-28T18:31:43
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                                         1           0  0.10s           2023-10-28T18:31:44
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                                             1           0  0.11s           2023-10-28T18:31:52
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                                   1           0  0.10s           2023-10-28T18:31:45
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                                  1           0  0.11s           2023-10-28T18:31:46
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                                               1           0  0.10s           2023-10-28T18:31:47
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py                                                   1           0  0.10s           2023-10-28T18:31:48
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                                    1           0  0.10s           2023-10-28T18:31:50
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                                  1           0  0.11s           2023-10-28T18:31:51
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py                                                             1           0  0.10s           2023-10-28T18:31:38
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                                    1           0  0.10s           2023-10-28T18:31:18
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                                  2           0  0.11s           2023-10-28T18:31:08
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                                  2           0  0.11s           2023-10-28T18:31:54
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                                           3           0  0.11s           2023-10-28T18:31:41
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.11s           2023-10-28T18:31:19
+/home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.10s           2023-10-28T18:31:49
+================================================================================
