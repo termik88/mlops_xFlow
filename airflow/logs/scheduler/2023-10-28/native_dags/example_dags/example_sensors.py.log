@@ -957,3 +957,164 @@
 [2023-10-28T23:03:42.082+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:42.082+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:03:42.091+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:42.091+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
 [2023-10-28T23:03:42.109+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-10-28T23:04:33.790+0500] {processor.py:157} INFO - Started process (PID=31715) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:04:33.791+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:04:33.792+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:33.791+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:04:33.800+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:04:33.815+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:33.814+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:04:33.823+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:33.823+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:04:33.841+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-10-28T23:05:22.271+0500] {processor.py:157} INFO - Started process (PID=31949) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:05:22.272+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:05:22.273+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:22.273+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:05:22.281+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:05:22.296+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:22.296+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:05:22.305+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:22.305+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:05:22.321+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2023-10-28T23:06:13.567+0500] {processor.py:157} INFO - Started process (PID=32242) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:06:13.568+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:06:13.569+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:13.569+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:06:13.577+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:06:13.592+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:13.592+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:06:13.601+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:13.601+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:06:13.617+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-10-28T23:07:04.692+0500] {processor.py:157} INFO - Started process (PID=32509) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:07:04.694+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:07:04.694+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:04.694+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:07:04.703+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:07:04.719+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:04.719+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:04.735+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:04.735+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:07:04.752+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.062 seconds
+[2023-10-28T23:07:52.795+0500] {processor.py:157} INFO - Started process (PID=32708) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:07:52.796+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:07:52.796+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:52.796+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:07:52.804+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:07:52.819+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:52.819+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:52.828+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:52.828+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:07:52.846+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-10-28T23:08:45.955+0500] {processor.py:157} INFO - Started process (PID=32949) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:08:45.957+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:08:45.958+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:45.958+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:08:45.967+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:08:45.985+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:45.985+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:08:45.996+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:45.996+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:08:46.014+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.062 seconds
+[2023-10-28T23:09:36.150+0500] {processor.py:157} INFO - Started process (PID=33074) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:09:36.151+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:09:36.152+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:36.152+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:09:36.161+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:09:36.179+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:36.179+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:09:36.190+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:36.189+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:09:36.209+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.061 seconds
+[2023-10-28T23:10:23.437+0500] {processor.py:157} INFO - Started process (PID=33315) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:10:23.438+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:10:23.440+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:23.440+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:10:23.449+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:10:23.465+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:23.464+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:10:23.474+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:23.473+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:10:23.490+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-10-28T23:11:14.165+0500] {processor.py:157} INFO - Started process (PID=33466) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:11:14.166+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:11:14.167+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:14.166+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:11:14.175+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:11:14.191+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:14.191+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:11:14.201+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:14.201+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:11:14.219+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-10-28T23:12:02.687+0500] {processor.py:157} INFO - Started process (PID=33643) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:12:02.688+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:12:02.689+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:02.689+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:12:02.697+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:12:02.713+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:02.713+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:12:02.722+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:02.722+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:12:02.741+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-10-28T23:12:55.257+0500] {processor.py:157} INFO - Started process (PID=33731) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:12:55.258+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:12:55.259+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:55.259+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:12:55.268+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:12:55.285+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:55.285+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:12:55.295+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:55.294+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:12:55.313+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.058 seconds
+[2023-10-28T23:13:43.759+0500] {processor.py:157} INFO - Started process (PID=33848) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:13:43.760+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:13:43.761+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:43.761+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:13:43.773+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:13:43.798+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:43.798+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:13:43.813+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:43.812+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:13:43.833+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.077 seconds
+[2023-10-28T23:14:30.727+0500] {processor.py:157} INFO - Started process (PID=34019) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:14:30.728+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:14:30.729+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:30.728+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:14:30.737+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:14:30.754+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:30.753+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:14:30.763+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:30.763+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:14:30.780+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds
+[2023-10-28T23:15:17.021+0500] {processor.py:157} INFO - Started process (PID=34256) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:15:17.022+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:15:17.022+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:17.022+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:15:17.031+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:15:17.053+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:17.053+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:15:17.062+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:17.062+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:15:17.079+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.062 seconds
+[2023-10-28T23:16:05.003+0500] {processor.py:157} INFO - Started process (PID=34431) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:16:05.004+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:16:05.005+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:05.005+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:16:05.014+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:16:05.032+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:05.032+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:16:05.041+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:05.041+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:16:05.059+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2023-10-28T23:16:50.491+0500] {processor.py:157} INFO - Started process (PID=34575) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:16:50.492+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:16:50.493+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:50.492+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:16:50.503+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:16:50.524+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:50.524+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:16:50.535+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:50.535+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:16:50.558+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.071 seconds
+[2023-10-28T23:17:40.495+0500] {processor.py:157} INFO - Started process (PID=34800) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:17:40.496+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:17:40.497+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:40.497+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:17:40.508+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:17:40.527+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:40.527+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:17:40.538+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:40.537+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:17:40.557+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.066 seconds
+[2023-10-28T23:18:31.082+0500] {processor.py:157} INFO - Started process (PID=34988) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:18:31.083+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:18:31.084+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:31.084+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:18:31.100+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:18:31.124+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:31.124+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:18:31.134+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:31.134+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:18:31.152+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.072 seconds
+[2023-10-28T23:19:25.651+0500] {processor.py:157} INFO - Started process (PID=35153) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:19:25.653+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:19:25.654+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:25.653+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:19:25.662+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:19:25.677+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:25.677+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:19:25.685+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:25.685+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:19:25.702+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.054 seconds
+[2023-10-28T23:20:17.453+0500] {processor.py:157} INFO - Started process (PID=35343) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:20:17.454+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:20:17.454+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:17.454+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:20:17.463+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:20:17.478+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:17.478+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:20:17.487+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:17.487+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:20:17.505+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.055 seconds
+[2023-10-28T23:21:07.144+0500] {processor.py:157} INFO - Started process (PID=35509) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:21:07.145+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:21:07.146+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:07.146+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:21:07.154+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:21:07.169+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:07.169+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:21:07.178+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:07.178+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:21:07.199+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.058 seconds
+[2023-10-28T23:21:49.307+0500] {processor.py:157} INFO - Started process (PID=35582) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:21:49.307+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:21:49.308+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:49.308+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:21:49.316+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:21:49.332+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:49.332+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:21:49.341+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:49.341+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:21:49.357+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-10-28T23:22:39.610+0500] {processor.py:157} INFO - Started process (PID=35719) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:22:39.611+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-10-28T23:22:39.611+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:39.611+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:22:39.621+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-10-28T23:22:39.638+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:39.638+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:22:39.647+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:39.647+0500] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-10-28T23:22:39.664+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.058 seconds

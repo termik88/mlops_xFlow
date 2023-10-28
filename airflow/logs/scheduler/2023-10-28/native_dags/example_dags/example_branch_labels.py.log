@@ -957,3 +957,164 @@
 [2023-10-28T23:03:40.999+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:40.999+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:03:41.016+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:41.016+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
 [2023-10-28T23:03:41.034+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.062 seconds
+[2023-10-28T23:04:32.653+0500] {processor.py:157} INFO - Started process (PID=31702) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:04:32.654+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:04:32.654+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:32.654+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:04:32.660+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:04:32.674+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:32.674+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:04:32.690+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:32.689+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:04:32.706+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2023-10-28T23:05:21.143+0500] {processor.py:157} INFO - Started process (PID=31948) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:05:21.144+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:05:21.144+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:21.144+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:05:21.150+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:05:21.165+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:21.164+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:05:21.181+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:21.180+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:05:21.198+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2023-10-28T23:06:12.430+0500] {processor.py:157} INFO - Started process (PID=32224) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:06:12.431+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:06:12.432+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:12.431+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:06:12.438+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:06:12.452+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:12.452+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:06:12.467+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:12.467+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:06:12.483+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2023-10-28T23:07:03.556+0500] {processor.py:157} INFO - Started process (PID=32493) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:07:03.557+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:07:03.558+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:03.558+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:07:03.565+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:07:03.580+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:03.580+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:03.597+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:03.597+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:07:03.613+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.060 seconds
+[2023-10-28T23:07:51.666+0500] {processor.py:157} INFO - Started process (PID=32702) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:07:51.668+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:07:51.668+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:51.668+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:07:51.675+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:07:51.690+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:51.689+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:51.705+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:51.705+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:07:51.723+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2023-10-28T23:08:44.823+0500] {processor.py:157} INFO - Started process (PID=32948) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:08:44.824+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:08:44.825+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:44.825+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:08:44.832+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:08:44.847+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:44.846+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:08:44.863+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:44.863+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:08:44.883+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.062 seconds
+[2023-10-28T23:09:35.011+0500] {processor.py:157} INFO - Started process (PID=33073) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:09:35.012+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:09:35.013+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:35.012+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:09:35.019+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:09:35.033+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:35.033+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:09:35.049+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:35.049+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:09:35.065+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2023-10-28T23:10:22.303+0500] {processor.py:157} INFO - Started process (PID=33314) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:10:22.304+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:10:22.305+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:22.305+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:10:22.311+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:10:22.325+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:22.325+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:10:22.345+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:22.345+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:10:22.362+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.061 seconds
+[2023-10-28T23:11:13.023+0500] {processor.py:157} INFO - Started process (PID=33455) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:11:13.024+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:11:13.025+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:13.024+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:11:13.031+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:11:13.047+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:13.047+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:11:13.063+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:13.063+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:11:13.079+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2023-10-28T23:12:01.538+0500] {processor.py:157} INFO - Started process (PID=33642) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:12:01.539+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:12:01.540+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:01.540+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:12:01.547+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:12:01.561+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:01.561+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:12:01.579+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:01.579+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:12:01.596+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.061 seconds
+[2023-10-28T23:12:54.118+0500] {processor.py:157} INFO - Started process (PID=33730) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:12:54.120+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:12:54.121+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:54.120+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:12:54.128+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:12:54.145+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:54.145+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:12:54.166+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:54.166+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:12:54.187+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.072 seconds
+[2023-10-28T23:13:42.628+0500] {processor.py:157} INFO - Started process (PID=33847) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:13:42.629+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:13:42.630+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:42.630+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:13:42.636+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:13:42.652+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:42.652+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:13:42.671+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:42.670+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:13:42.689+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.064 seconds
+[2023-10-28T23:14:30.107+0500] {processor.py:157} INFO - Started process (PID=34018) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:14:30.108+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:14:30.109+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:30.109+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:14:30.116+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:14:30.131+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:30.131+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:14:30.154+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:30.153+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:14:30.173+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.068 seconds
+[2023-10-28T23:15:16.681+0500] {processor.py:157} INFO - Started process (PID=34255) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:15:16.682+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:15:16.683+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:16.683+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:15:16.689+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:15:16.704+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:16.704+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:15:16.720+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:16.720+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:15:16.738+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2023-10-28T23:16:04.172+0500] {processor.py:157} INFO - Started process (PID=34415) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:16:04.173+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:16:04.173+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:04.173+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:16:04.180+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:16:04.194+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:04.193+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:16:04.209+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:04.209+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:16:04.225+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds
+[2023-10-28T23:16:49.319+0500] {processor.py:157} INFO - Started process (PID=34574) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:16:49.319+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:16:49.321+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:49.320+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:16:49.327+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:16:49.343+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:49.343+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:16:49.360+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:49.360+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:16:49.378+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.062 seconds
+[2023-10-28T23:17:39.360+0500] {processor.py:157} INFO - Started process (PID=34799) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:17:39.361+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:17:39.362+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:39.362+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:17:39.368+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:17:39.382+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:39.382+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:17:39.399+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:39.398+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:17:39.417+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2023-10-28T23:18:29.934+0500] {processor.py:157} INFO - Started process (PID=34987) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:18:29.935+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:18:29.935+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:29.935+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:18:29.941+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:18:29.957+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:29.957+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:18:29.973+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:29.972+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:18:29.990+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.059 seconds
+[2023-10-28T23:19:25.362+0500] {processor.py:157} INFO - Started process (PID=35152) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:19:25.363+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:19:25.363+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:25.363+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:19:25.369+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:19:25.384+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:25.384+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:19:25.400+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:25.400+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:19:25.416+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.057 seconds
+[2023-10-28T23:20:16.306+0500] {processor.py:157} INFO - Started process (PID=35342) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:20:16.306+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:20:16.307+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:16.307+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:20:16.313+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:20:16.328+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:16.327+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:20:16.346+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:16.346+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:20:16.363+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.060 seconds
+[2023-10-28T23:21:06.802+0500] {processor.py:157} INFO - Started process (PID=35508) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:21:06.803+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:21:06.804+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:06.804+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:21:06.811+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:21:06.826+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:06.826+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:21:06.843+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:06.843+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:21:06.859+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.060 seconds
+[2023-10-28T23:21:48.223+0500] {processor.py:157} INFO - Started process (PID=35581) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:21:48.224+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:21:48.225+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:48.225+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:21:48.231+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:21:48.245+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:48.245+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:21:48.262+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:48.262+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:21:48.279+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.058 seconds
+[2023-10-28T23:22:38.475+0500] {processor.py:157} INFO - Started process (PID=35718) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:22:38.476+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-10-28T23:22:38.476+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:38.476+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:22:38.482+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-10-28T23:22:38.496+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:38.496+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:22:38.512+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:38.512+0500] {dag.py:3722} INFO - Setting next_dagrun for example_branch_labels to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T23:22:38.528+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.056 seconds

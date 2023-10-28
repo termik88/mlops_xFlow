@@ -1321,3 +1321,234 @@
 [2023-10-28T23:03:29.053+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:29.053+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:03:29.062+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:29.061+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
 [2023-10-28T23:03:29.079+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:04:02.938+0500] {processor.py:157} INFO - Started process (PID=31522) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:04:02.939+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:04:02.940+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:02.940+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:04:02.945+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:04:02.958+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:02.958+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:04:02.967+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:02.967+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:04:02.984+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:04:38.352+0500] {processor.py:157} INFO - Started process (PID=31749) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:04:38.353+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:04:38.354+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:38.353+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:04:38.358+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:04:38.371+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:38.371+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:04:38.380+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:38.380+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:04:38.398+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:05:10.846+0500] {processor.py:157} INFO - Started process (PID=31936) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:05:10.847+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:05:10.849+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:10.848+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:05:10.854+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:05:10.869+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:10.868+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:05:10.878+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:10.878+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:05:10.897+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-10-28T23:05:59.429+0500] {processor.py:157} INFO - Started process (PID=32143) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:05:59.430+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:05:59.430+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:59.430+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:05:59.435+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:05:59.447+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:59.447+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:05:59.456+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:59.456+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:05:59.473+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-10-28T23:06:34.423+0500] {processor.py:157} INFO - Started process (PID=32411) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:06:34.425+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:06:34.427+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:34.426+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:06:34.433+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:06:34.447+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:34.447+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:06:34.456+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:34.456+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:06:34.475+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2023-10-28T23:07:08.265+0500] {processor.py:157} INFO - Started process (PID=32528) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:07:08.265+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:07:08.266+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:08.266+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:07:08.271+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:07:08.285+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:08.285+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:08.295+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:08.295+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:07:08.312+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-10-28T23:07:39.062+0500] {processor.py:157} INFO - Started process (PID=32633) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:07:39.062+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:07:39.063+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:39.063+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:07:39.068+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:07:39.081+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:39.081+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:39.090+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:39.090+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:07:39.106+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-10-28T23:08:14.555+0500] {processor.py:157} INFO - Started process (PID=32756) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:08:14.556+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:08:14.556+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:14.556+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:08:14.561+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:08:14.579+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:14.579+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:08:14.588+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:14.588+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:08:14.608+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2023-10-28T23:08:48.708+0500] {processor.py:157} INFO - Started process (PID=32953) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:08:48.709+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:08:48.710+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:48.709+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:08:48.714+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:08:48.727+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:48.727+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:08:48.736+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:48.736+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:08:48.755+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-10-28T23:09:27.499+0500] {processor.py:157} INFO - Started process (PID=33066) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:09:27.500+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:09:27.501+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:27.501+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:09:27.506+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:09:27.523+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:27.523+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:09:27.542+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:27.542+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:09:27.558+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2023-10-28T23:10:00.583+0500] {processor.py:157} INFO - Started process (PID=33255) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:10:00.584+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:10:00.585+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:00.584+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:10:00.589+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:10:00.602+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:00.602+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:10:00.611+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:00.611+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:10:00.629+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:10:46.935+0500] {processor.py:157} INFO - Started process (PID=33340) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:10:46.936+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:10:46.937+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:46.936+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:10:46.941+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:10:46.954+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:46.954+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:10:46.963+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:46.963+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:10:46.979+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-10-28T23:11:21.642+0500] {processor.py:157} INFO - Started process (PID=33491) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:11:21.643+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:11:21.644+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:21.643+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:11:21.648+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:11:21.661+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:21.661+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:11:21.670+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:21.670+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:11:21.688+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2023-10-28T23:11:54.650+0500] {processor.py:157} INFO - Started process (PID=33603) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:11:54.651+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:11:54.651+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:54.651+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:11:54.656+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:11:54.669+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:54.669+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:11:54.678+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:54.678+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:11:54.695+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-10-28T23:12:27.228+0500] {processor.py:157} INFO - Started process (PID=33697) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:12:27.229+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:12:27.230+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:27.229+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:12:27.234+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:12:27.248+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:27.247+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:12:27.257+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:27.257+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:12:27.274+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:13:01.997+0500] {processor.py:157} INFO - Started process (PID=33772) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:13:01.998+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:13:01.999+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:01.998+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:13:02.003+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:13:02.018+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:02.017+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:13:02.027+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:02.027+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:13:02.045+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2023-10-28T23:13:35.201+0500] {processor.py:157} INFO - Started process (PID=33840) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:13:35.203+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:13:35.204+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:35.203+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:13:35.210+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:13:35.230+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:35.230+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:13:35.244+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:35.244+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:13:35.262+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.064 seconds
+[2023-10-28T23:14:21.230+0500] {processor.py:157} INFO - Started process (PID=34010) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:14:21.231+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:14:21.232+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:21.231+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:14:21.236+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:14:21.251+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:21.250+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:14:21.260+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:21.260+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:14:21.277+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-10-28T23:14:53.007+0500] {processor.py:157} INFO - Started process (PID=34060) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:14:53.008+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:14:53.008+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:53.008+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:14:53.012+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:14:53.026+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:53.026+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:14:53.035+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:53.035+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:14:53.053+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2023-10-28T23:15:24.305+0500] {processor.py:157} INFO - Started process (PID=34263) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:15:24.306+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:15:24.307+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:24.306+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:15:24.311+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:15:24.325+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:24.325+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:15:24.335+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:24.335+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:15:24.352+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-10-28T23:15:57.297+0500] {processor.py:157} INFO - Started process (PID=34358) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:15:57.298+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:15:57.299+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:57.299+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:15:57.303+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:15:57.316+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:57.316+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:15:57.325+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:57.325+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:15:57.342+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-10-28T23:16:41.345+0500] {processor.py:157} INFO - Started process (PID=34563) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:16:41.347+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:16:41.348+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:41.348+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:16:41.353+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:16:41.367+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:41.367+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:16:41.377+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:41.377+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:16:41.395+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-10-28T23:17:13.846+0500] {processor.py:157} INFO - Started process (PID=34669) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:17:13.847+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:17:13.848+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:13.847+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:17:13.852+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:17:13.865+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:13.865+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:17:13.874+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:13.874+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:17:13.890+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.047 seconds
+[2023-10-28T23:17:46.707+0500] {processor.py:157} INFO - Started process (PID=34807) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:17:46.708+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:17:46.709+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:46.708+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:17:46.713+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:17:46.727+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:46.727+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:17:46.736+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:46.736+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:17:46.753+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:18:21.924+0500] {processor.py:157} INFO - Started process (PID=34979) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:18:21.925+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:18:21.925+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:21.925+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:18:21.929+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:18:21.943+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:21.943+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:18:21.953+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:21.953+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:18:21.970+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:18:56.364+0500] {processor.py:157} INFO - Started process (PID=35037) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:18:56.365+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:18:56.366+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:56.365+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:18:56.370+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:18:56.384+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:56.384+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:18:56.394+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:56.393+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:18:56.411+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-10-28T23:19:32.876+0500] {processor.py:157} INFO - Started process (PID=35160) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:19:32.878+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:19:32.878+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:32.878+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:19:32.883+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:19:32.898+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:32.898+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:19:32.908+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:32.908+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:19:32.927+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.054 seconds
+[2023-10-28T23:20:06.167+0500] {processor.py:157} INFO - Started process (PID=35332) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:20:06.168+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:20:06.169+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:06.169+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:20:06.173+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:20:06.187+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:06.187+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:20:06.197+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:06.197+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:20:06.213+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:20:42.592+0500] {processor.py:157} INFO - Started process (PID=35391) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:20:42.593+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:20:42.594+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:42.594+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:20:42.598+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:20:42.612+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:42.612+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:20:42.622+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:42.621+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:20:42.639+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.050 seconds
+[2023-10-28T23:21:26.011+0500] {processor.py:157} INFO - Started process (PID=35529) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:21:26.013+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:21:26.014+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:26.014+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:21:26.021+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:21:26.042+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:26.042+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:21:26.052+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:26.052+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:21:26.070+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.063 seconds
+[2023-10-28T23:22:08.824+0500] {processor.py:157} INFO - Started process (PID=35687) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:22:08.825+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:22:08.826+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:08.826+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:22:08.830+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:22:08.844+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:08.843+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:22:08.853+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:08.853+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:22:08.870+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.048 seconds
+[2023-10-28T23:22:43.404+0500] {processor.py:157} INFO - Started process (PID=35735) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:22:43.405+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:22:43.405+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:43.405+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:22:43.410+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:22:43.423+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:43.423+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:22:43.436+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:43.436+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:22:43.453+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-10-28T23:23:15.920+0500] {processor.py:157} INFO - Started process (PID=35931) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:23:15.921+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-10-28T23:23:15.921+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:15.921+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:23:15.925+0500] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-10-28T23:23:15.940+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:15.940+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:23:15.949+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:15.949+0500] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-10-28T23:23:15.968+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds

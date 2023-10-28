@@ -1013,3 +1013,178 @@
 [2023-10-28T23:03:16.458+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:16.458+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-28T23:03:16.468+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:03:16.467+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
 [2023-10-28T23:03:16.486+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.050 seconds
+[2023-10-28T23:04:07.874+0500] {processor.py:157} INFO - Started process (PID=31568) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:04:07.875+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:04:07.875+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:07.875+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:04:07.880+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:04:07.893+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:07.893+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:04:07.902+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:07.902+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:04:07.920+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2023-10-28T23:04:59.517+0500] {processor.py:157} INFO - Started process (PID=31893) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:04:59.518+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:04:59.518+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:59.518+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:04:59.523+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:04:59.536+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:59.536+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:04:59.545+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:04:59.545+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:04:59.564+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.051 seconds
+[2023-10-28T23:05:45.724+0500] {processor.py:157} INFO - Started process (PID=32042) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:05:45.725+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:05:45.726+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:45.726+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:05:45.731+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:05:45.745+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:45.745+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:05:45.756+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:05:45.756+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:05:45.783+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2023-10-28T23:06:22.674+0500] {processor.py:157} INFO - Started process (PID=32330) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:06:22.675+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:06:22.675+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:22.675+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:06:22.680+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:06:22.693+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:22.693+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:06:22.701+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:06:22.701+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:06:22.718+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2023-10-28T23:07:10.720+0500] {processor.py:157} INFO - Started process (PID=32531) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:07:10.720+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:07:10.721+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:10.721+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:07:10.727+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:07:10.741+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:10.741+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:07:10.750+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:07:10.750+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:07:10.768+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.051 seconds
+[2023-10-28T23:08:00.870+0500] {processor.py:157} INFO - Started process (PID=32731) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:08:00.872+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:08:00.873+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:00.872+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:08:00.877+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:08:00.890+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:00.890+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:08:00.898+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:00.898+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:08:00.916+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2023-10-28T23:08:37.182+0500] {processor.py:157} INFO - Started process (PID=32940) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:08:37.183+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:08:37.183+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:37.183+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:08:37.188+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:08:37.201+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:37.201+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:08:37.210+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:08:37.210+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:08:37.227+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2023-10-28T23:09:19.794+0500] {processor.py:157} INFO - Started process (PID=33056) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:09:19.796+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:09:19.796+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:19.796+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:09:19.801+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:09:19.826+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:19.826+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:09:19.844+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:09:19.840+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:09:19.871+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2023-10-28T23:10:05.418+0500] {processor.py:157} INFO - Started process (PID=33292) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:10:05.419+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:10:05.420+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:05.420+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:10:05.425+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:10:05.438+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:05.438+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:10:05.448+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:05.447+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:10:05.466+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.051 seconds
+[2023-10-28T23:10:54.719+0500] {processor.py:157} INFO - Started process (PID=33351) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:10:54.720+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:10:54.720+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:54.720+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:10:54.733+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:10:54.748+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:54.748+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:10:54.757+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:10:54.757+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:10:54.781+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-10-28T23:11:44.371+0500] {processor.py:157} INFO - Started process (PID=33592) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:11:44.372+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:11:44.373+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:44.373+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:11:44.378+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:11:44.390+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:44.390+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:11:44.399+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:11:44.399+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:11:44.417+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2023-10-28T23:12:33.547+0500] {processor.py:157} INFO - Started process (PID=33706) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:12:33.548+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:12:33.549+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:33.549+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:12:33.554+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:12:33.568+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:33.568+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:12:33.578+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:12:33.578+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:12:33.597+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.053 seconds
+[2023-10-28T23:13:23.761+0500] {processor.py:157} INFO - Started process (PID=33828) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:13:23.762+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:13:23.763+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:23.762+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:13:23.768+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:13:23.784+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:23.784+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:13:23.795+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:13:23.794+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:13:23.817+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2023-10-28T23:14:10.126+0500] {processor.py:157} INFO - Started process (PID=33954) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:14:10.127+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:14:10.128+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:10.128+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:14:10.142+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:14:10.156+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:10.156+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:14:10.165+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:10.165+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:14:10.182+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2023-10-28T23:14:58.265+0500] {processor.py:157} INFO - Started process (PID=34137) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:14:58.266+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:14:58.267+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:58.266+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:14:58.272+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:14:58.286+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:58.286+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:14:58.295+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:14:58.295+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:14:58.313+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.051 seconds
+[2023-10-28T23:15:45.715+0500] {processor.py:157} INFO - Started process (PID=34338) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:15:45.716+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:15:45.717+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:45.717+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:15:45.721+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:15:45.735+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:45.734+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:15:45.744+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:15:45.743+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:15:45.761+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2023-10-28T23:16:29.905+0500] {processor.py:157} INFO - Started process (PID=34550) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:16:29.906+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:16:29.907+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:29.906+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:16:29.912+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:16:29.930+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:29.929+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:16:29.939+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:16:29.939+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:16:29.957+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.055 seconds
+[2023-10-28T23:17:19.836+0500] {processor.py:157} INFO - Started process (PID=34732) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:17:19.839+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:17:19.840+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:19.840+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:17:19.845+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:17:19.859+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:19.859+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:17:19.868+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:17:19.868+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:17:19.890+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.056 seconds
+[2023-10-28T23:18:10.534+0500] {processor.py:157} INFO - Started process (PID=34967) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:18:10.535+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:18:10.536+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:10.535+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:18:10.541+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:18:10.554+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:10.554+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:18:10.563+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:18:10.563+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:18:10.580+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2023-10-28T23:19:02.391+0500] {processor.py:157} INFO - Started process (PID=35077) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:19:02.392+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:19:02.393+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:02.393+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:19:02.398+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:19:02.412+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:02.412+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:19:02.422+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:02.422+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:19:02.440+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.051 seconds
+[2023-10-28T23:19:54.285+0500] {processor.py:157} INFO - Started process (PID=35218) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:19:54.286+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:19:54.287+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:54.287+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:19:54.292+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:19:54.306+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:54.306+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:19:54.314+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:19:54.314+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:19:54.331+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2023-10-28T23:20:47.021+0500] {processor.py:157} INFO - Started process (PID=35397) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:20:47.022+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:20:47.023+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:47.023+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:20:47.028+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:20:47.040+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:47.040+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:20:47.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:20:47.050+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:20:47.068+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2023-10-28T23:21:31.059+0500] {processor.py:157} INFO - Started process (PID=35534) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:21:31.060+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:21:31.061+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:31.060+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:21:31.066+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:21:31.081+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:31.080+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:21:31.093+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:21:31.093+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:21:31.111+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.054 seconds
+[2023-10-28T23:22:13.966+0500] {processor.py:157} INFO - Started process (PID=35692) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:22:13.967+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:22:13.968+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:13.968+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:22:13.973+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:22:13.990+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:13.990+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:22:14.000+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:22:14.000+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:22:14.019+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.056 seconds
+[2023-10-28T23:23:04.994+0500] {processor.py:157} INFO - Started process (PID=35884) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:23:04.995+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-10-28T23:23:04.996+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:04.996+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:23:05.001+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-10-28T23:23:05.021+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:05.021+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T23:23:05.030+0500] {logging_mixin.py:151} INFO - [2023-10-28T23:23:05.030+0500] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-10-28T23:23:05.054+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
