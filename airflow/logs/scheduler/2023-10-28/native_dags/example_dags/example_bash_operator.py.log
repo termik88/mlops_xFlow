@@ -1,0 +1,882 @@
+[2023-10-28T21:05:12.678+0500] {processor.py:157} INFO - Started process (PID=5144) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:05:12.678+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:05:12.679+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:05:12.679+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:05:12.689+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:05:12.710+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:05:12.710+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:05:12.727+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:05:12.727+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:05:12.752+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.077 seconds
+[2023-10-28T21:06:05.471+0500] {processor.py:157} INFO - Started process (PID=5505) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:06:05.472+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:06:05.472+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:06:05.472+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:06:05.482+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:06:05.502+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:06:05.502+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:06:05.519+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:06:05.519+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:06:05.537+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T21:07:02.987+0500] {processor.py:157} INFO - Started process (PID=5960) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:07:02.988+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:07:02.988+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:07:02.988+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:07:02.998+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:07:03.017+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:07:03.017+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:07:03.034+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:07:03.034+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:07:03.051+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T21:07:59.849+0500] {processor.py:157} INFO - Started process (PID=6379) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:07:59.850+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:07:59.851+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:07:59.851+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:07:59.868+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:07:59.891+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:07:59.890+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:07:59.912+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:07:59.912+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:07:59.929+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.084 seconds
+[2023-10-28T21:08:49.680+0500] {processor.py:157} INFO - Started process (PID=6733) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:08:49.681+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:08:49.682+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:08:49.682+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:08:49.692+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:08:49.712+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:08:49.711+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:08:49.728+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:08:49.728+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:08:49.746+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:09:57.859+0500] {processor.py:157} INFO - Started process (PID=7266) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:09:57.860+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:09:57.861+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:09:57.861+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:09:57.870+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:09:57.889+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:09:57.889+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:09:57.905+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:09:57.905+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:09:57.922+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:10:47.990+0500] {processor.py:157} INFO - Started process (PID=7426) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:10:47.991+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:10:47.992+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:10:47.992+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:10:48.002+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:10:48.021+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:10:48.021+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:10:48.037+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:10:48.037+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:10:48.054+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T21:11:48.534+0500] {processor.py:157} INFO - Started process (PID=7931) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:11:48.535+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:11:48.536+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:11:48.536+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:11:48.547+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:11:48.565+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:11:48.565+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:11:48.582+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:11:48.581+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:11:48.597+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:12:37.910+0500] {processor.py:157} INFO - Started process (PID=8040) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:12:37.911+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:12:37.912+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:12:37.911+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:12:37.921+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:12:37.941+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:12:37.941+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:12:37.958+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:12:37.958+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:12:37.976+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:13:30.279+0500] {processor.py:157} INFO - Started process (PID=8519) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:13:30.280+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:13:30.281+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:13:30.280+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:13:30.290+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:13:30.309+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:13:30.309+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:13:30.325+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:13:30.325+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:13:30.342+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:14:22.394+0500] {processor.py:157} INFO - Started process (PID=8980) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:14:22.395+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:14:22.395+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:14:22.395+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:14:22.405+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:14:22.424+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:14:22.424+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:14:22.442+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:14:22.441+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:14:22.459+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:15:14.436+0500] {processor.py:157} INFO - Started process (PID=9202) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:15:14.437+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:15:14.437+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:15:14.437+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:15:14.447+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:15:14.467+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:15:14.467+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:15:14.484+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:15:14.484+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:15:14.501+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:16:48.059+0500] {processor.py:157} INFO - Started process (PID=9900) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:16:48.060+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:16:48.061+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:16:48.061+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:16:48.070+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:16:48.089+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:16:48.089+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:16:48.104+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:16:48.104+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:16:48.121+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:17:41.910+0500] {processor.py:157} INFO - Started process (PID=9989) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:17:41.911+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:17:41.912+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:17:41.912+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:17:41.922+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:17:41.950+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:17:41.949+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:17:41.978+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:17:41.978+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:17:41.998+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.090 seconds
+[2023-10-28T21:18:33.577+0500] {processor.py:157} INFO - Started process (PID=10136) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:18:33.578+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:18:33.579+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:18:33.578+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:18:33.588+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:18:33.608+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:18:33.608+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:18:33.624+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:18:33.624+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:18:33.639+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:19:25.704+0500] {processor.py:157} INFO - Started process (PID=10392) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:19:25.706+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:19:25.707+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:19:25.706+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:19:25.716+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:19:25.735+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:19:25.735+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:19:25.751+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:19:25.750+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:19:25.768+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T21:20:18.723+0500] {processor.py:157} INFO - Started process (PID=10713) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:20:18.724+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:20:18.725+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:20:18.724+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:20:18.737+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:20:18.759+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:20:18.759+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:20:18.776+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:20:18.776+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:20:18.793+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.072 seconds
+[2023-10-28T21:21:13.052+0500] {processor.py:157} INFO - Started process (PID=10923) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:21:13.054+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:21:13.054+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:21:13.054+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:21:13.065+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:21:13.085+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:21:13.085+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:21:13.110+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:21:13.110+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:21:13.128+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.079 seconds
+[2023-10-28T21:22:07.416+0500] {processor.py:157} INFO - Started process (PID=11196) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:22:07.417+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:22:07.418+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:22:07.417+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:22:07.427+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:22:07.445+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:22:07.445+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:22:07.461+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:22:07.461+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:22:07.479+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:22:51.767+0500] {processor.py:157} INFO - Started process (PID=11305) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:22:51.768+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:22:51.769+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:22:51.769+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:22:51.779+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:22:51.801+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:22:51.800+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:22:51.819+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:22:51.818+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:22:51.838+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.074 seconds
+[2023-10-28T21:23:40.212+0500] {processor.py:157} INFO - Started process (PID=11761) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:23:40.213+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:23:40.213+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:23:40.213+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:23:40.222+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:23:40.247+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:23:40.247+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:23:40.272+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:23:40.271+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:23:40.294+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.084 seconds
+[2023-10-28T21:24:26.715+0500] {processor.py:157} INFO - Started process (PID=12171) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:24:26.717+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:24:26.718+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:24:26.718+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:24:26.735+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:24:26.759+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:24:26.758+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:24:26.780+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:24:26.780+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:24:26.798+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.085 seconds
+[2023-10-28T21:25:17.487+0500] {processor.py:157} INFO - Started process (PID=12223) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:25:17.489+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:25:17.489+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:25:17.489+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:25:17.499+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:25:17.518+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:25:17.518+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:25:17.536+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:25:17.535+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:25:17.552+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T21:26:10.717+0500] {processor.py:157} INFO - Started process (PID=12279) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:26:10.718+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:26:10.719+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:26:10.718+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:26:10.730+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:26:10.755+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:26:10.754+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:26:10.776+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:26:10.775+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:26:10.801+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2023-10-28T21:27:24.048+0500] {processor.py:157} INFO - Started process (PID=12626) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:27:24.049+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:27:24.050+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:27:24.050+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:27:24.060+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:27:24.079+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:27:24.079+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:27:24.096+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:27:24.096+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:27:24.113+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:28:12.576+0500] {processor.py:157} INFO - Started process (PID=12727) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:28:12.577+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:28:12.577+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:28:12.577+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:28:12.587+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:28:12.605+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:28:12.604+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:28:12.620+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:28:12.620+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:28:12.637+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.063 seconds
+[2023-10-28T21:29:02.798+0500] {processor.py:157} INFO - Started process (PID=12842) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:29:02.799+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:29:02.799+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:29:02.799+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:29:02.809+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:29:02.827+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:29:02.827+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:29:02.843+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:29:02.842+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:29:02.860+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T21:29:51.219+0500] {processor.py:157} INFO - Started process (PID=12948) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:29:51.220+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:29:51.221+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:29:51.221+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:29:51.230+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:29:51.248+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:29:51.248+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:29:51.265+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:29:51.265+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:29:51.281+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T21:30:38.073+0500] {processor.py:157} INFO - Started process (PID=13062) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:30:38.074+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:30:38.074+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:30:38.074+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:30:38.084+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:30:38.104+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:30:38.103+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:30:38.120+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:30:38.120+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:30:38.137+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T21:31:27.227+0500] {processor.py:157} INFO - Started process (PID=13502) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:31:27.228+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:31:27.229+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:31:27.228+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:31:27.238+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:31:27.258+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:31:27.258+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:31:27.274+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:31:27.274+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:31:27.291+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T21:32:16.386+0500] {processor.py:157} INFO - Started process (PID=13942) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:32:16.387+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:32:16.388+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:32:16.388+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:32:16.400+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:32:16.428+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:32:16.428+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:32:16.446+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:32:16.446+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:32:16.464+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.080 seconds
+[2023-10-28T21:33:12.510+0500] {processor.py:157} INFO - Started process (PID=14244) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:33:12.511+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:33:12.512+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:33:12.511+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:33:12.523+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:33:12.543+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:33:12.543+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:33:12.560+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:33:12.560+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:33:12.578+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.071 seconds
+[2023-10-28T21:33:58.370+0500] {processor.py:157} INFO - Started process (PID=14319) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:33:58.371+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:33:58.371+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:33:58.371+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:33:58.381+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:33:58.400+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:33:58.400+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:33:58.415+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:33:58.415+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:33:58.433+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:35:00.059+0500] {processor.py:157} INFO - Started process (PID=14736) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:35:00.060+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:35:00.061+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:35:00.061+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:35:00.071+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:35:00.090+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:35:00.090+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:35:00.107+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:35:00.107+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:35:00.125+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:35:48.779+0500] {processor.py:157} INFO - Started process (PID=14932) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:35:48.780+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:35:48.781+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:35:48.781+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:35:48.790+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:35:48.809+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:35:48.809+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:35:48.824+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:35:48.824+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:35:48.840+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T21:36:37.295+0500] {processor.py:157} INFO - Started process (PID=15245) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:36:37.297+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:36:37.297+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:36:37.297+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:36:37.307+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:36:37.325+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:36:37.325+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:36:37.340+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:36:37.340+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:36:37.357+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T21:37:26.304+0500] {processor.py:157} INFO - Started process (PID=15560) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:37:26.305+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:37:26.306+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:37:26.305+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:37:26.323+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:37:26.344+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:37:26.343+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:37:26.362+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:37:26.361+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:37:26.379+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.077 seconds
+[2023-10-28T21:38:17.165+0500] {processor.py:157} INFO - Started process (PID=15704) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:38:17.166+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:38:17.167+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:38:17.167+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:38:17.177+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:38:17.197+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:38:17.196+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:38:17.213+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:38:17.213+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:38:17.232+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.070 seconds
+[2023-10-28T21:39:10.743+0500] {processor.py:157} INFO - Started process (PID=15875) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:39:10.744+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:39:10.745+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:39:10.745+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:39:10.756+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:39:10.777+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:39:10.776+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:39:10.796+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:39:10.795+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:39:10.816+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.075 seconds
+[2023-10-28T21:45:36.672+0500] {processor.py:157} INFO - Started process (PID=17426) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:45:36.674+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:45:36.675+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:45:36.674+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:45:36.685+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:45:36.705+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:45:36.705+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:45:36.721+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:45:36.721+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:45:36.741+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.071 seconds
+[2023-10-28T21:46:30.853+0500] {processor.py:157} INFO - Started process (PID=17624) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:46:30.854+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:46:30.854+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:46:30.854+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:46:30.864+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:46:30.883+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:46:30.883+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:46:30.900+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:46:30.900+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:46:30.918+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T21:47:20.451+0500] {processor.py:157} INFO - Started process (PID=17749) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:47:20.452+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:47:20.452+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:47:20.452+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:47:20.461+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:47:20.479+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:47:20.479+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:47:20.495+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:47:20.495+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:47:20.512+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T21:48:12.754+0500] {processor.py:157} INFO - Started process (PID=17890) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:48:12.755+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:48:12.756+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:48:12.755+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:48:12.765+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:48:12.784+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:48:12.784+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:48:12.800+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:48:12.800+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:48:12.817+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T21:49:01.481+0500] {processor.py:157} INFO - Started process (PID=17944) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:49:01.482+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:49:01.483+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:49:01.483+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:49:01.494+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:49:01.515+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:49:01.515+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:49:01.533+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:49:01.533+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:49:01.551+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.072 seconds
+[2023-10-28T21:49:55.920+0500] {processor.py:157} INFO - Started process (PID=18045) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:49:55.921+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:49:55.922+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:49:55.921+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:49:55.931+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:49:55.952+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:49:55.952+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:49:55.970+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:49:55.970+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:49:55.994+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.077 seconds
+[2023-10-28T21:50:55.092+0500] {processor.py:157} INFO - Started process (PID=18134) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:50:55.093+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:50:55.094+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:50:55.094+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:50:55.103+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:50:55.121+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:50:55.121+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:50:55.137+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:50:55.137+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:50:55.154+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:51:42.541+0500] {processor.py:157} INFO - Started process (PID=18186) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:51:42.542+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:51:42.543+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:51:42.542+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:51:42.552+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:51:42.570+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:51:42.570+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:51:42.586+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:51:42.586+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:51:42.602+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T21:52:33.350+0500] {processor.py:157} INFO - Started process (PID=18763) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:52:33.351+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:52:33.352+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:52:33.352+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:52:33.361+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:52:33.380+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:52:33.379+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:52:33.395+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:52:33.395+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:52:33.413+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:53:17.097+0500] {processor.py:157} INFO - Started process (PID=18918) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:53:17.098+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:53:17.098+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:53:17.098+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:53:17.108+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:53:17.132+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:53:17.132+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:53:17.151+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:53:17.151+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:53:17.169+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.075 seconds
+[2023-10-28T21:54:13.392+0500] {processor.py:157} INFO - Started process (PID=19216) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:54:13.393+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:54:13.394+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:54:13.394+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:54:13.403+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:54:13.420+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:54:13.420+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:54:13.441+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:54:13.441+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:54:13.457+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T21:55:05.289+0500] {processor.py:157} INFO - Started process (PID=19645) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:55:05.290+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:55:05.290+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:55:05.290+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:55:05.300+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:55:05.319+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:55:05.319+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:55:05.335+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:55:05.335+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:55:05.353+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T21:55:51.595+0500] {processor.py:157} INFO - Started process (PID=20047) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:55:51.596+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:55:51.597+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:55:51.597+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:55:51.606+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:55:51.625+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:55:51.625+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:55:51.642+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:55:51.641+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:55:51.658+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T21:56:43.537+0500] {processor.py:157} INFO - Started process (PID=20284) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:56:43.538+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:56:43.539+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:56:43.539+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:56:43.551+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:56:43.570+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:56:43.570+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:56:43.588+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:56:43.588+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:56:43.605+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.070 seconds
+[2023-10-28T21:57:51.903+0500] {processor.py:157} INFO - Started process (PID=20912) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:57:51.904+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:57:51.904+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:57:51.904+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:57:51.915+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:57:51.936+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:57:51.936+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:57:51.955+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:57:51.954+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:57:51.973+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.073 seconds
+[2023-10-28T21:59:28.160+0500] {processor.py:157} INFO - Started process (PID=21695) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:59:28.162+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T21:59:28.163+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:59:28.162+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:59:28.173+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T21:59:28.192+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:59:28.192+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T21:59:28.208+0500] {logging_mixin.py:151} INFO - [2023-10-28T21:59:28.208+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T21:59:28.225+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:00:20.748+0500] {processor.py:157} INFO - Started process (PID=21790) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:00:20.749+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:00:20.750+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:00:20.749+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:00:20.759+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:00:20.776+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:00:20.776+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:00:20.791+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:00:20.791+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:00:20.808+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.063 seconds
+[2023-10-28T22:01:10.843+0500] {processor.py:157} INFO - Started process (PID=21911) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:01:10.844+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:01:10.845+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:01:10.844+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:01:10.857+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:01:10.876+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:01:10.876+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:01:10.891+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:01:10.891+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:01:10.909+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:02:02.475+0500] {processor.py:157} INFO - Started process (PID=21999) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:02:02.476+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:02:02.477+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:02:02.477+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:02:02.488+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:02:02.509+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:02:02.509+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:02:02.530+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:02:02.530+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:02:02.547+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.074 seconds
+[2023-10-28T22:03:09.581+0500] {processor.py:157} INFO - Started process (PID=22448) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:03:09.582+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:03:09.582+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:03:09.582+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:03:09.592+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:03:09.610+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:03:09.610+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:03:09.626+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:03:09.626+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:03:09.643+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:04:00.772+0500] {processor.py:157} INFO - Started process (PID=22536) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:04:00.773+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:04:00.774+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:04:00.774+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:04:00.785+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:04:00.805+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:04:00.805+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:04:00.823+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:04:00.823+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:04:00.842+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.072 seconds
+[2023-10-28T22:04:53.920+0500] {processor.py:157} INFO - Started process (PID=22662) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:04:53.921+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:04:53.922+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:04:53.922+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:04:53.932+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:04:53.951+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:04:53.950+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:04:53.966+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:04:53.966+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:04:53.983+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:05:46.595+0500] {processor.py:157} INFO - Started process (PID=22781) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:05:46.596+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:05:46.596+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:05:46.596+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:05:46.606+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:05:46.624+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:05:46.624+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:05:46.640+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:05:46.640+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:05:46.656+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.063 seconds
+[2023-10-28T22:06:31.907+0500] {processor.py:157} INFO - Started process (PID=22897) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:06:31.908+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:06:31.909+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:06:31.909+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:06:31.919+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:06:31.937+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:06:31.937+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:06:31.953+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:06:31.953+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:06:31.971+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T22:07:19.286+0500] {processor.py:157} INFO - Started process (PID=23011) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:07:19.287+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:07:19.288+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:07:19.287+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:07:19.297+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:07:19.316+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:07:19.316+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:07:19.332+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:07:19.332+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:07:19.349+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:08:08.213+0500] {processor.py:157} INFO - Started process (PID=23189) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:08:08.214+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:08:08.215+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:08:08.215+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:08:08.226+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:08:08.245+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:08:08.244+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:08:08.261+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:08:08.261+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:08:08.277+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:08:54.188+0500] {processor.py:157} INFO - Started process (PID=23260) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:08:54.189+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:08:54.190+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:08:54.190+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:08:54.200+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:08:54.222+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:08:54.222+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:08:54.241+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:08:54.241+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:08:54.261+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.076 seconds
+[2023-10-28T22:09:43.055+0500] {processor.py:157} INFO - Started process (PID=23375) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:09:43.056+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:09:43.057+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:09:43.057+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:09:43.067+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:09:43.086+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:09:43.086+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:09:43.102+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:09:43.102+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:09:43.119+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T22:10:31.551+0500] {processor.py:157} INFO - Started process (PID=23528) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:10:31.552+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:10:31.553+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:10:31.553+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:10:31.563+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:10:31.587+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:10:31.581+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:10:31.603+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:10:31.603+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:10:31.620+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.071 seconds
+[2023-10-28T22:11:18.389+0500] {processor.py:157} INFO - Started process (PID=23644) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:11:18.390+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:11:18.391+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:11:18.391+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:11:18.400+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:11:18.419+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:11:18.419+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:11:18.437+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:11:18.437+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:11:18.454+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:12:06.186+0500] {processor.py:157} INFO - Started process (PID=23758) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:12:06.186+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:12:06.187+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:12:06.187+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:12:06.197+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:12:06.217+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:12:06.217+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:12:06.233+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:12:06.233+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:12:06.250+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:12:53.729+0500] {processor.py:157} INFO - Started process (PID=23811) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:12:53.729+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:12:53.730+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:12:53.730+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:12:53.740+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:12:53.760+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:12:53.760+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:12:53.778+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:12:53.778+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:12:53.795+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:13:42.589+0500] {processor.py:157} INFO - Started process (PID=23926) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:13:42.591+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:13:42.591+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:13:42.591+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:13:42.603+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:13:42.624+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:13:42.623+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:13:42.642+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:13:42.642+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:13:42.660+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.074 seconds
+[2023-10-28T22:14:28.787+0500] {processor.py:157} INFO - Started process (PID=24040) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:14:28.787+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:14:28.788+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:14:28.788+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:14:28.798+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:14:28.816+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:14:28.816+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:14:28.832+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:14:28.832+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:14:28.849+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:15:15.076+0500] {processor.py:157} INFO - Started process (PID=24191) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:15:15.077+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:15:15.078+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:15:15.078+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:15:15.088+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:15:15.107+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:15:15.107+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:15:15.123+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:15:15.123+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:15:15.140+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:15:59.950+0500] {processor.py:157} INFO - Started process (PID=24275) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:15:59.951+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:15:59.951+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:15:59.951+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:15:59.961+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:15:59.979+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:15:59.979+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:15:59.995+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:15:59.995+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:16:00.018+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.071 seconds
+[2023-10-28T22:16:49.792+0500] {processor.py:157} INFO - Started process (PID=24357) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:16:49.793+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:16:49.793+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:16:49.793+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:16:49.803+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:16:49.822+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:16:49.822+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:16:49.838+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:16:49.838+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:16:49.855+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T22:17:39.444+0500] {processor.py:157} INFO - Started process (PID=24476) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:17:39.445+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:17:39.446+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:17:39.446+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:17:39.455+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:17:39.475+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:17:39.475+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:17:39.490+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:17:39.490+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:17:39.509+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:18:26.861+0500] {processor.py:157} INFO - Started process (PID=24590) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:18:26.862+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:18:26.863+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:18:26.863+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:18:26.873+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:18:26.891+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:18:26.891+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:18:26.907+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:18:26.906+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:18:26.923+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:19:14.033+0500] {processor.py:157} INFO - Started process (PID=24708) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:19:14.034+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:19:14.034+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:19:14.034+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:19:14.044+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:19:14.062+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:19:14.062+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:19:14.078+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:19:14.078+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:19:14.097+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T22:19:58.931+0500] {processor.py:157} INFO - Started process (PID=24815) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:19:58.933+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:19:58.933+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:19:58.933+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:19:58.949+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:19:58.968+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:19:58.968+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:19:58.985+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:19:58.985+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:19:59.001+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.073 seconds
+[2023-10-28T22:20:49.164+0500] {processor.py:157} INFO - Started process (PID=24913) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:20:49.164+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:20:49.165+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:20:49.165+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:20:49.176+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:20:49.196+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:20:49.196+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:20:49.217+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:20:49.217+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:20:49.236+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.075 seconds
+[2023-10-28T22:21:39.700+0500] {processor.py:157} INFO - Started process (PID=25031) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:21:39.701+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:21:39.702+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:21:39.701+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:21:39.713+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:21:39.732+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:21:39.732+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:21:39.747+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:21:39.747+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:21:39.765+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:22:30.580+0500] {processor.py:157} INFO - Started process (PID=25152) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:22:30.581+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:22:30.581+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:22:30.581+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:22:30.591+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:22:30.610+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:22:30.610+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:22:30.627+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:22:30.627+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:22:30.645+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:23:22.567+0500] {processor.py:157} INFO - Started process (PID=25270) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:23:22.568+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:23:22.568+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:23:22.568+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:23:22.578+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:23:22.597+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:23:22.597+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:23:22.612+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:23:22.612+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:23:22.630+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:24:15.300+0500] {processor.py:157} INFO - Started process (PID=25388) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:24:15.301+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:24:15.302+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:24:15.302+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:24:15.311+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:24:15.337+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:24:15.337+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:24:15.353+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:24:15.353+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:24:15.369+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.071 seconds
+[2023-10-28T22:25:02.936+0500] {processor.py:157} INFO - Started process (PID=25514) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:25:02.937+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:25:02.938+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:25:02.937+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:25:02.947+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:25:02.966+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:25:02.966+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:25:02.982+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:25:02.982+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:25:02.998+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:25:53.180+0500] {processor.py:157} INFO - Started process (PID=25596) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:25:53.181+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:25:53.182+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:25:53.182+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:25:53.192+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:25:53.211+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:25:53.210+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:25:53.227+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:25:53.227+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:25:53.244+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:26:42.343+0500] {processor.py:157} INFO - Started process (PID=25709) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:26:42.344+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:26:42.345+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:26:42.345+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:26:42.355+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:26:42.374+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:26:42.374+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:26:42.392+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:26:42.391+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:26:42.410+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:27:32.992+0500] {processor.py:157} INFO - Started process (PID=25764) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:27:32.993+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:27:32.994+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:27:32.994+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:27:33.004+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:27:33.023+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:27:33.022+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:27:33.039+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:27:33.039+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:27:33.056+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:28:26.464+0500] {processor.py:157} INFO - Started process (PID=25881) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:28:26.465+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:28:26.466+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:28:26.466+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:28:26.476+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:28:26.496+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:28:26.496+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:28:26.513+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:28:26.513+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:28:26.531+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:29:13.768+0500] {processor.py:157} INFO - Started process (PID=25998) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:29:13.769+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:29:13.770+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:29:13.770+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:29:13.779+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:29:13.799+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:29:13.799+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:29:13.816+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:29:13.816+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:29:13.835+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.070 seconds
+[2023-10-28T22:30:04.655+0500] {processor.py:157} INFO - Started process (PID=26207) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:30:04.656+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:30:04.657+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:30:04.657+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:30:04.667+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:30:04.686+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:30:04.685+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:30:04.702+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:30:04.702+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:30:04.720+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:30:50.074+0500] {processor.py:157} INFO - Started process (PID=26260) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:30:50.075+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:30:50.076+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:30:50.075+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:30:50.085+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:30:50.104+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:30:50.104+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:30:50.121+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:30:50.121+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:30:50.143+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.072 seconds
+[2023-10-28T22:31:39.992+0500] {processor.py:157} INFO - Started process (PID=26388) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:31:39.994+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:31:39.995+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:31:39.994+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:31:40.004+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:31:40.023+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:31:40.023+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:31:40.039+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:31:40.039+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:31:40.056+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:32:27.201+0500] {processor.py:157} INFO - Started process (PID=26500) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:32:27.202+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:32:27.202+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:32:27.202+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:32:27.212+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:32:27.231+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:32:27.231+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:32:27.247+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:32:27.247+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:32:27.265+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:33:20.358+0500] {processor.py:157} INFO - Started process (PID=26622) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:33:20.359+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:33:20.360+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:33:20.360+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:33:20.370+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:33:20.390+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:33:20.389+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:33:20.406+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:33:20.406+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:33:20.424+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:34:15.072+0500] {processor.py:157} INFO - Started process (PID=26740) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:34:15.073+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:34:15.074+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:34:15.073+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:34:15.083+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:34:15.103+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:34:15.102+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:34:15.119+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:34:15.119+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:34:15.137+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:35:08.020+0500] {processor.py:157} INFO - Started process (PID=26938) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:35:08.021+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:35:08.022+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:35:08.022+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:35:08.032+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:35:08.051+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:35:08.050+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:35:08.067+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:35:08.067+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:35:08.165+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.147 seconds
+[2023-10-28T22:35:59.940+0500] {processor.py:157} INFO - Started process (PID=27027) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:35:59.941+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:35:59.941+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:35:59.941+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:35:59.951+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:35:59.969+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:35:59.969+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:35:59.985+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:35:59.985+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:36:00.005+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:36:51.477+0500] {processor.py:157} INFO - Started process (PID=27112) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:36:51.478+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:36:51.479+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:36:51.479+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:36:51.489+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:36:51.508+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:36:51.508+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:36:51.525+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:36:51.525+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:36:51.543+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.068 seconds
+[2023-10-28T22:37:39.076+0500] {processor.py:157} INFO - Started process (PID=27227) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:37:39.077+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:37:39.077+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:37:39.077+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:37:39.087+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:37:39.107+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:37:39.107+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:37:39.204+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:37:39.204+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:37:39.219+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.146 seconds
+[2023-10-28T22:38:33.154+0500] {processor.py:157} INFO - Started process (PID=27346) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:38:33.154+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:38:33.155+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:38:33.155+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:38:33.165+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:38:33.183+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:38:33.183+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:38:33.199+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:38:33.199+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:38:33.215+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T22:39:27.400+0500] {processor.py:157} INFO - Started process (PID=27462) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:39:27.401+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:39:27.402+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:39:27.402+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:39:27.412+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:39:27.517+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:39:27.517+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:39:27.531+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:39:27.531+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:39:27.547+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.149 seconds
+[2023-10-28T22:40:24.503+0500] {processor.py:157} INFO - Started process (PID=27663) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:40:24.504+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:40:24.505+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:40:24.505+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:40:24.515+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:40:24.534+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:40:24.534+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:40:24.639+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:40:24.639+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:40:24.655+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.154 seconds
+[2023-10-28T22:41:21.740+0500] {processor.py:157} INFO - Started process (PID=27792) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:41:21.742+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:41:21.743+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:41:21.743+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:41:21.753+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:41:21.772+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:41:21.772+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:41:21.789+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:41:21.788+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:41:21.806+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:42:13.711+0500] {processor.py:157} INFO - Started process (PID=27910) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:42:13.712+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:42:13.713+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:42:13.712+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:42:13.723+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:42:13.742+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:42:13.742+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:42:13.761+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:42:13.761+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:42:13.778+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:42:59.225+0500] {processor.py:157} INFO - Started process (PID=27979) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:42:59.226+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:42:59.227+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:42:59.226+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:42:59.237+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:42:59.256+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:42:59.256+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:42:59.274+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:42:59.274+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:42:59.293+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.072 seconds
+[2023-10-28T22:43:45.221+0500] {processor.py:157} INFO - Started process (PID=28112) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:43:45.222+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:43:45.223+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:43:45.223+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:43:45.233+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:43:45.252+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:43:45.252+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:43:45.268+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:43:45.268+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:43:45.285+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T22:44:34.175+0500] {processor.py:157} INFO - Started process (PID=28164) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:44:34.176+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:44:34.177+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:44:34.177+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:44:34.187+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:44:34.207+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:44:34.207+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:44:34.224+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:44:34.223+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:44:34.241+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:45:21.144+0500] {processor.py:157} INFO - Started process (PID=28325) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:45:21.145+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:45:21.146+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:45:21.146+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:45:21.157+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:45:21.176+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:45:21.176+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:45:21.194+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:45:21.193+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:45:21.211+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.070 seconds
+[2023-10-28T22:46:09.397+0500] {processor.py:157} INFO - Started process (PID=28379) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:46:09.398+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:46:09.399+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:46:09.399+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:46:09.410+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:46:09.431+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:46:09.431+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:46:09.449+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:46:09.449+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:46:09.467+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.073 seconds
+[2023-10-28T22:46:53.272+0500] {processor.py:157} INFO - Started process (PID=28428) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:46:53.273+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:46:53.273+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:46:53.273+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:46:53.283+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:46:53.302+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:46:53.302+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:46:53.320+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:46:53.320+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:46:53.338+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:47:38.441+0500] {processor.py:157} INFO - Started process (PID=28477) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:47:38.443+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:47:38.443+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:47:38.443+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:47:38.453+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:47:38.472+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:47:38.472+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:47:38.488+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:47:38.488+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:47:38.505+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2023-10-28T22:48:25.799+0500] {processor.py:157} INFO - Started process (PID=28605) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:48:25.801+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:48:25.801+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:48:25.801+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:48:25.811+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:48:25.833+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:48:25.833+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:48:25.849+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:48:25.849+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:48:25.866+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.069 seconds
+[2023-10-28T22:49:11.918+0500] {processor.py:157} INFO - Started process (PID=28932) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:49:11.919+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:49:11.919+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:49:11.919+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:49:11.929+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:49:11.948+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:49:11.948+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:49:11.965+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:49:11.964+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:49:11.981+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:50:00.388+0500] {processor.py:157} INFO - Started process (PID=29064) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:50:00.389+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:50:00.390+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:50:00.390+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:50:00.400+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:50:00.420+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:50:00.419+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:50:00.437+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:50:00.436+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:50:00.457+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.071 seconds
+[2023-10-28T22:51:00.584+0500] {processor.py:157} INFO - Started process (PID=29181) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:51:00.586+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:51:00.587+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:51:00.586+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:51:00.596+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:51:00.614+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:51:00.614+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:51:00.630+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:51:00.629+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:51:00.646+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T22:51:51.719+0500] {processor.py:157} INFO - Started process (PID=29236) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:51:51.720+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:51:51.721+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:51:51.720+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:51:51.730+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:51:51.749+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:51:51.749+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:51:51.766+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:51:51.766+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:51:51.783+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:52:39.467+0500] {processor.py:157} INFO - Started process (PID=29351) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:52:39.468+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:52:39.469+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:52:39.468+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:52:39.478+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:52:39.496+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:52:39.496+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:52:39.512+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:52:39.512+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:52:39.529+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T22:53:30.808+0500] {processor.py:157} INFO - Started process (PID=29470) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:53:30.810+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:53:30.811+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:53:30.811+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:53:30.820+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:53:30.839+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:53:30.838+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:53:30.857+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:53:30.857+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:53:30.878+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.072 seconds
+[2023-10-28T22:54:17.304+0500] {processor.py:157} INFO - Started process (PID=29654) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:54:17.305+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:54:17.306+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:54:17.306+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:54:17.315+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:54:17.334+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:54:17.334+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:54:17.349+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:54:17.349+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:54:17.366+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T22:55:04.479+0500] {processor.py:157} INFO - Started process (PID=29884) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:55:04.480+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:55:04.481+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:55:04.480+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:55:04.490+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:55:04.509+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:55:04.509+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:55:04.525+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:55:04.525+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:55:04.541+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.064 seconds
+[2023-10-28T22:55:53.600+0500] {processor.py:157} INFO - Started process (PID=30017) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:55:53.600+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:55:53.601+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:55:53.601+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:55:53.614+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:55:53.632+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:55:53.632+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:55:53.647+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:55:53.647+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:55:53.664+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds
+[2023-10-28T22:56:41.376+0500] {processor.py:157} INFO - Started process (PID=30131) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:56:41.377+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:56:41.377+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:56:41.377+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:56:41.387+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:56:41.414+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:56:41.413+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:56:41.431+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:56:41.431+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:56:41.447+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.074 seconds
+[2023-10-28T22:57:30.046+0500] {processor.py:157} INFO - Started process (PID=30248) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:57:30.047+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:57:30.047+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:57:30.047+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:57:30.057+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:57:30.075+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:57:30.075+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:57:30.091+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:57:30.091+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:57:30.108+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.065 seconds
+[2023-10-28T22:58:20.535+0500] {processor.py:157} INFO - Started process (PID=30449) to work on /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:58:20.536+0500] {processor.py:829} INFO - Processing file /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-10-28T22:58:20.537+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:20.537+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:58:20.546+0500] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-10-28T22:58:20.565+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:20.565+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-28T22:58:20.581+0500] {logging_mixin.py:151} INFO - [2023-10-28T22:58:20.581+0500] {dag.py:3722} INFO - Setting next_dagrun for example_bash_operator to 2023-10-27T00:00:00+00:00, run_after=2023-10-28T00:00:00+00:00
+[2023-10-28T22:58:20.599+0500] {processor.py:179} INFO - Processing /home/termik/project/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.067 seconds

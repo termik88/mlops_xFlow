@@ -1,0 +1,34 @@
+[2023-10-28T21:11:46.109+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.get_data manual__2023-10-28T16:06:41.342717+00:00 [queued]>
+[2023-10-28T21:11:46.114+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.get_data manual__2023-10-28T16:06:41.342717+00:00 [queued]>
+[2023-10-28T21:11:46.114+0500] {taskinstance.py:1361} INFO - Starting attempt 2 of 2
+[2023-10-28T21:11:46.129+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): get_data> on 2023-10-28 16:06:41.342717+00:00
+[2023-10-28T21:11:46.132+0500] {standard_task_runner.py:57} INFO - Started process 7913 to run task
+[2023-10-28T21:11:46.135+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'get_data', 'manual__2023-10-28T16:06:41.342717+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmpxu8zl7fk']
+[2023-10-28T21:11:46.137+0500] {standard_task_runner.py:85} INFO - Job 16: Subtask get_data
+[2023-10-28T21:11:46.167+0500] {task_command.py:416} INFO - Running <TaskInstance: youtube_comments_score.get_data manual__2023-10-28T16:06:41.342717+00:00 [running]> on host xFlow.xFlow.virtualbox.org
+[2023-10-28T21:11:46.211+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2023-10-28T16:06:41.342717+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-10-28T16:06:41.342717+00:00'
+[2023-10-28T21:11:46.212+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-10-28T21:11:46.212+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/termik/project/scripts/get_data.py']
+[2023-10-28T21:11:46.219+0500] {subprocess.py:86} INFO - Output:
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -   File "/home/termik/project/scripts/get_data.py", line 9, in <module>
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -     video = api.search_by_keywords(q=query, search_type=["video"], count=10, limit=30)
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -   File "/home/termik/project/venv/lib/python3.10/site-packages/pyyoutube/api.py", line 1750, in search_by_keywords
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -     return self.search(
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -   File "/home/termik/project/venv/lib/python3.10/site-packages/pyyoutube/api.py", line 1683, in search
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -     res_data = self.paged_by_page_token(resource="search", args=args, count=count)
+[2023-10-28T21:11:46.950+0500] {subprocess.py:93} INFO -   File "/home/termik/project/venv/lib/python3.10/site-packages/pyyoutube/api.py", line 487, in paged_by_page_token
+[2023-10-28T21:11:46.951+0500] {subprocess.py:93} INFO -     data = self._parse_response(resp)  # origin response
+[2023-10-28T21:11:46.951+0500] {subprocess.py:93} INFO -   File "/home/termik/project/venv/lib/python3.10/site-packages/pyyoutube/api.py", line 327, in _parse_response
+[2023-10-28T21:11:46.951+0500] {subprocess.py:93} INFO -     raise PyYouTubeException(response)
+[2023-10-28T21:11:46.951+0500] {subprocess.py:93} INFO - pyyoutube.error.PyYouTubeException: YouTubeException(status_code=403,message=YouTube Data API v3 has not been used in project 575855219428 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=575855219428 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.)
+[2023-10-28T21:11:46.996+0500] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-10-28T21:11:47.001+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/termik/project/venv/lib/python3.10/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-10-28T21:11:47.003+0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=youtube_comments_score, task_id=get_data, execution_date=20231028T160641, start_date=20231028T161146, end_date=20231028T161147
+[2023-10-28T21:11:47.016+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 16 for task get_data (Bash command failed. The command returned a non-zero exit code 1.; 7913)
+[2023-10-28T21:11:47.025+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-10-28T21:11:47.038+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

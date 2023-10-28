@@ -1,0 +1,26 @@
+[2023-10-28T22:02:24.273+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.train_model manual__2023-10-28T16:56:53.143065+00:00 [queued]>
+[2023-10-28T22:02:24.278+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.train_model manual__2023-10-28T16:56:53.143065+00:00 [queued]>
+[2023-10-28T22:02:24.278+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-10-28T22:02:24.289+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): train_model> on 2023-10-28 16:56:53.143065+00:00
+[2023-10-28T22:02:24.292+0500] {standard_task_runner.py:57} INFO - Started process 22214 to run task
+[2023-10-28T22:02:24.294+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'train_model', 'manual__2023-10-28T16:56:53.143065+00:00', '--job-id', '52', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmpksq6par6']
+[2023-10-28T22:02:24.296+0500] {standard_task_runner.py:85} INFO - Job 52: Subtask train_model
+[2023-10-28T22:02:24.323+0500] {task_command.py:416} INFO - Running <TaskInstance: youtube_comments_score.train_model manual__2023-10-28T16:56:53.143065+00:00 [running]> on host xFlow.xFlow.virtualbox.org
+[2023-10-28T22:02:24.367+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2023-10-28T16:56:53.143065+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-10-28T16:56:53.143065+00:00'
+[2023-10-28T22:02:24.369+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-10-28T22:02:24.370+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/termik/project/scripts/train_model.py']
+[2023-10-28T22:02:24.377+0500] {subprocess.py:86} INFO - Output:
+[2023-10-28T22:02:25.530+0500] {subprocess.py:93} INFO - /home/termik/project/venv/lib/python3.10/site-packages/pydantic/_internal/_fields.py:128: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+[2023-10-28T22:02:25.531+0500] {subprocess.py:93} INFO - 
+[2023-10-28T22:02:25.531+0500] {subprocess.py:93} INFO - You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+[2023-10-28T22:02:25.531+0500] {subprocess.py:93} INFO -   warnings.warn(
+[2023-10-28T22:02:25.537+0500] {subprocess.py:93} INFO - /home/termik/project/venv/lib/python3.10/site-packages/pydantic/_internal/_config.py:317: UserWarning: Valid config keys have changed in V2:
+[2023-10-28T22:02:25.537+0500] {subprocess.py:93} INFO - * 'schema_extra' has been renamed to 'json_schema_extra'
+[2023-10-28T22:02:25.537+0500] {subprocess.py:93} INFO -   warnings.warn(message, UserWarning)
+[2023-10-28T22:02:27.653+0500] {subprocess.py:93} INFO - Registered model 'lr' already exists. Creating a new version of this model...
+[2023-10-28T22:02:27.956+0500] {subprocess.py:93} INFO - 2023/10/28 22:02:27 INFO mlflow.tracking._model_registry.client: Waiting up to 300 seconds for model version to finish creation. Model name: lr, version 3
+[2023-10-28T22:02:27.956+0500] {subprocess.py:93} INFO - Created version '3' of model 'lr'.
+[2023-10-28T22:02:28.212+0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-10-28T22:02:28.225+0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=youtube_comments_score, task_id=train_model, execution_date=20231028T165653, start_date=20231028T170224, end_date=20231028T170228
+[2023-10-28T22:02:28.277+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-10-28T22:02:28.287+0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
